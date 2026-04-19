@@ -63,6 +63,33 @@
             <category>business</category>
         </item>
         <item>
+            <title><![CDATA[진짜 AI 에이전트형 코딩 툴 'Claude Code']]></title>
+            <link>https://jeonck.github.io/us-start/blog/2025/08/25/claude-code-agentic-coding-tool</link>
+            <guid>https://jeonck.github.io/us-start/blog/2025/08/25/claude-code-agentic-coding-tool</guid>
+            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Anthropic의 Claude Code는 단순 코드 자동완성을 넘어 프로젝트 계획부터 배포까지 전 개발 과정을 자율적으로 처리하는 에이전트형 코딩 도구입니다. 개발 속도 150% 향상, 버그 발생률 83% 감소 사례와 함께 FastAPI CRUD 프로젝트 10분 완성 실전 예시를 제시합니다.]]></description>
+            <content:encoded><![CDATA[<p>Anthropic의 Claude Code는 단순 코드 자동완성을 넘어 프로젝트 계획부터 배포까지 전 개발 과정을 자율적으로 처리하는 에이전트형 코딩 도구입니다. 개발 속도 150% 향상, 버그 발생률 83% 감소 사례와 함께 FastAPI CRUD 프로젝트 10분 완성 실전 예시를 제시합니다.</p>
+<!-- -->
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="핵심-내용">핵심 내용<a href="https://jeonck.github.io/us-start/blog/2025/08/25/claude-code-agentic-coding-tool#%ED%95%B5%EC%8B%AC-%EB%82%B4%EC%9A%A9" class="hash-link" aria-label="핵심 내용에 대한 직접 링크" title="핵심 내용에 대한 직접 링크" translate="no">​</a></h2>
+<ul>
+<li class=""><strong>Agentic Coding</strong>: 단순 자동완성이 아닌 계획·구현·테스트·배포까지 자율 수행</li>
+<li class=""><strong>MCP 연동</strong>: Model Context Protocol을 통한 외부 도구·데이터 연결</li>
+<li class=""><strong>실전 성과</strong>: 개발 속도 150% 향상, 버그 발생률 83% 감소</li>
+<li class=""><strong>빠른 시작</strong>: FastAPI CRUD 프로젝트 10분 완성 사례</li>
+<li class=""><strong>멀티 에이전트</strong>: 병렬 에이전트 오케스트레이션으로 대규모 작업 처리</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="주요-기술-키워드">주요 기술 키워드<a href="https://jeonck.github.io/us-start/blog/2025/08/25/claude-code-agentic-coding-tool#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EC%88%A0-%ED%82%A4%EC%9B%8C%EB%93%9C" class="hash-link" aria-label="주요 기술 키워드에 대한 직접 링크" title="주요 기술 키워드에 대한 직접 링크" translate="no">​</a></h2>
+<p><code>Claude Code</code> <code>Agentic AI</code> <code>MCP</code> <code>FastAPI</code> <code>Git Automation</code> <code>Multi-Agent</code> <code>Vibe Coding</code> <code>Python</code></p>
+<hr>
+<p>전문은 SK Devocean에서 확인하실 수 있습니다.</p>
+<p><strong><a href="https://devocean.sk.com/search/techBoardDetail.do?ID=167718" target="_blank" rel="noopener noreferrer" class="">→ 전체 글 읽기</a></strong></p>]]></content:encoded>
+            <category>claude-code</category>
+            <category>agentic-ai</category>
+            <category>mcp</category>
+            <category>fastapi</category>
+            <category>devtools</category>
+        </item>
+        <item>
             <title><![CDATA[빠른 개발을 지원하는 K8s와 CI/CD]]></title>
             <link>https://jeonck.github.io/us-start/blog/2024/09/19/k8s-and-ci-cd-support-rapid-development</link>
             <guid>https://jeonck.github.io/us-start/blog/2024/09/19/k8s-and-ci-cd-support-rapid-development</guid>
