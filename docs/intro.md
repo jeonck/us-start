@@ -1,5 +1,6 @@
 ---
 slug: /
+sidebar_position: 1
 ---
 
 # Project-U: 미국 생활 적응 가이드
