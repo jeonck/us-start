@@ -38,4 +38,34 @@
         <category label="kafka" term="kafka"/>
         <category label="spark" term="spark"/>
     </entry>
+    <entry>
+        <title type="html"><![CDATA[누구나 현자를 보유한다 'GPTs']]></title>
+        <id>https://jeonck.github.io/us-start/blog/2024/05/10/everyone-has-sage-gpts</id>
+        <link href="https://jeonck.github.io/us-start/blog/2024/05/10/everyone-has-sage-gpts"/>
+        <updated>2024-05-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GPT의 진화 과정을 추적하며, 자연어만으로 단 몇 분 만에 맞춤형 AI 어시스턴트를 만들 수 있는 GPTs의 개발 방법과 활용 가능성을 다룬 글입니다. GPTs가 앱스토어 혁명을 넘어서는 새로운 AI 혁명을 열 것으로 전망합니다.]]></summary>
+        <content type="html"><![CDATA[<p>GPT의 진화 과정을 추적하며, 자연어만으로 단 몇 분 만에 맞춤형 AI 어시스턴트를 만들 수 있는 GPTs의 개발 방법과 활용 가능성을 다룬 글입니다. GPTs가 앱스토어 혁명을 넘어서는 새로운 AI 혁명을 열 것으로 전망합니다.</p>
+<!-- -->
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="핵심-내용">핵심 내용<a href="https://jeonck.github.io/us-start/blog/2024/05/10/everyone-has-sage-gpts#%ED%95%B5%EC%8B%AC-%EB%82%B4%EC%9A%A9" class="hash-link" aria-label="핵심 내용에 대한 직접 링크" title="핵심 내용에 대한 직접 링크" translate="no">​</a></h2>
+<ul>
+<li class=""><strong>GPTs란</strong>: 누구나 자연어로 자신만의 맞춤형 GPT를 몇 분 안에 만들고 공개할 수 있는 플랫폼</li>
+<li class=""><strong>기술적 배경</strong>: Transformer 아키텍처에서 ChatGPT, GPT-4로 이어지는 진화 과정</li>
+<li class=""><strong>경쟁력의 3요소</strong>: 상상력, 융합화, 차별화</li>
+<li class=""><strong>전망</strong>: 앱스토어 혁명을 초월하는 AI 생태계의 시작점</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="주요-기술-키워드">주요 기술 키워드<a href="https://jeonck.github.io/us-start/blog/2024/05/10/everyone-has-sage-gpts#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EC%88%A0-%ED%82%A4%EC%9B%8C%EB%93%9C" class="hash-link" aria-label="주요 기술 키워드에 대한 직접 링크" title="주요 기술 키워드에 대한 직접 링크" translate="no">​</a></h2>
+<p><code>ChatGPT</code> <code>GPTs</code> <code>Transformer</code> <code>NLP</code> <code>Generative AI</code> <code>Prompt Engineering</code> <code>Deep Learning</code></p>
+<hr>
+<p>전문은 외부 블로그에서 확인하실 수 있습니다.</p>
+<p><strong><a href="https://blog.cslee.co.kr/everyone-has-sage-gpts/" target="_blank" rel="noopener noreferrer" class="">→ 전체 글 읽기</a></strong></p>]]></content>
+        <author>
+            <name>CK Jeon</name>
+            <uri>https://github.com/jeonck</uri>
+        </author>
+        <category label="chatgpt" term="chatgpt"/>
+        <category label="gpt" term="gpt"/>
+        <category label="generative-ai" term="generative-ai"/>
+        <category label="nlp" term="nlp"/>
+        <category label="prompt-engineering" term="prompt-engineering"/>
+    </entry>
 </feed>
