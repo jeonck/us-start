@@ -101,6 +101,38 @@
         <category label="devtools" term="devtools"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[KVM 기반 VM의 외부 접근성 향상을 위한 브리지 네트워크 구성]]></title>
+        <id>https://jeonck.github.io/us-start/blog/2025/08/21/kvm-bridge-network-configuration</id>
+        <link href="https://jeonck.github.io/us-start/blog/2025/08/21/kvm-bridge-network-configuration"/>
+        <updated>2025-08-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[온프레미스 환경에서 KVM 가상머신에 외부에서 직접 접속할 수 있도록 브리지 네트워크를 구성하는 방법을 다룬 글입니다. NAT 방식의 불편함을 해소하고 Netplan과 라우팅 우선순위 조정을 통해 VM에 IP를 직접 할당, SSH 직접 접속을 실현합니다.]]></summary>
+        <content type="html"><![CDATA[<p>온프레미스 환경에서 KVM 가상머신에 외부에서 직접 접속할 수 있도록 브리지 네트워크를 구성하는 방법을 다룬 글입니다. NAT 방식의 불편함을 해소하고 Netplan과 라우팅 우선순위 조정을 통해 VM에 IP를 직접 할당, SSH 직접 접속을 실현합니다.</p>
+<!-- -->
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="핵심-내용">핵심 내용<a href="https://jeonck.github.io/us-start/blog/2025/08/21/kvm-bridge-network-configuration#%ED%95%B5%EC%8B%AC-%EB%82%B4%EC%9A%A9" class="hash-link" aria-label="핵심 내용에 대한 직접 링크" title="핵심 내용에 대한 직접 링크" translate="no">​</a></h2>
+<ul>
+<li class=""><strong>문제 상황</strong>: KVM NAT 네트워크에서 외부 직접 접속이 불가능한 한계</li>
+<li class=""><strong>브리지 네트워크</strong>: VM이 호스트와 동일한 네트워크에 위치해 IP 직접 할당 가능</li>
+<li class=""><strong>Netplan 설정</strong>: Ubuntu에서 브리지 인터페이스 구성 방법</li>
+<li class=""><strong>라우팅 조정</strong>: 우선순위 설정으로 외부 SSH 직접 접속 구현</li>
+<li class=""><strong>활용 환경</strong>: 온프레미스 GPU 서버, 개발·테스트 VM 환경</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="주요-기술-키워드">주요 기술 키워드<a href="https://jeonck.github.io/us-start/blog/2025/08/21/kvm-bridge-network-configuration#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EC%88%A0-%ED%82%A4%EC%9B%8C%EB%93%9C" class="hash-link" aria-label="주요 기술 키워드에 대한 직접 링크" title="주요 기술 키워드에 대한 직접 링크" translate="no">​</a></h2>
+<p><code>KVM</code> <code>Bridge Network</code> <code>Netplan</code> <code>Virtualization</code> <code>SSH</code> <code>Routing</code> <code>On-premise</code> <code>Linux</code> <code>DevOps</code></p>
+<hr>
+<p>전문은 SK Devocean에서 확인하실 수 있습니다.</p>
+<p><strong><a href="https://devocean.sk.com/search/techBoardDetail.do?ID=167560" target="_blank" rel="noopener noreferrer" class="">→ 전체 글 읽기</a></strong></p>]]></content>
+        <author>
+            <name>CK Jeon</name>
+            <uri>https://github.com/jeonck</uri>
+        </author>
+        <category label="kvm" term="kvm"/>
+        <category label="linux" term="linux"/>
+        <category label="networking" term="networking"/>
+        <category label="devops" term="devops"/>
+        <category label="on-premise" term="on-premise"/>
+        <category label="virtualization" term="virtualization"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[XRDP로 헤드리스 GPU 서버에 원격 GUI 접속하기]]></title>
         <id>https://jeonck.github.io/us-start/blog/2025/07/21/xrdp-headless-gpu-server-remote-gui</id>
         <link href="https://jeonck.github.io/us-start/blog/2025/07/21/xrdp-headless-gpu-server-remote-gui"/>
