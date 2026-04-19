@@ -67,3 +67,33 @@ title: 영어 말하기 가이드
 "**I was working at ABC when...**"
 - **활용**: 특정 회사(ABC)에서 근무하던 당시의 상황을 설명하며 답변에 생동감을 불어넣을 때 사용합니다. "~하던 중에 ~한 일이 있었다"라는 스토리텔링 형식의 답변을 시작하기에 가장 적합한 표현입니다.
 - **예시**: "**I was working at ABC Company when we first implemented the cloud migration strategy.**"
+
+---
+
+## 5. STAR 기법을 활용한 경험 전달 (STAR Technique)
+
+자신의 성과나 문제 해결 경험을 논리적으로 전달할 때 가장 널리 쓰이는 기법입니다. 단순히 "무엇을 했다"가 아니라, 어떤 상황에서 어떤 노력을 통해 어떤 결과를 냈는지 입체적으로 설명할 수 있습니다.
+
+### 1. S: Situation (상황 설명)
+- **활용**: 사건이 일어난 배경과 당시의 상황을 간략하게 제시합니다.
+- **사용하기 쉬운 문구**: "**We had a problem with...**" / "**At that time, I was...**"
+- **예시**: "**Back at my previous company, we had a critical system error during a major update. The deployment failed, and the service was down.**"
+  (이전 회사에서 대규모 업데이트 중에 심각한 시스템 오류가 있었습니다. 배포는 실패했고 서비스는 중단되었죠.)
+
+### 2. T: Task (나의 과제)
+- **활용**: 당시 내가 해결해야 했던 구체적인 목표나 직면한 과제를 설명합니다.
+- **사용하기 쉬운 문구**: "**My goal was to...**" / "**I had to...**"
+- **예시**: "**My goal was to find the root cause and restore the service as fast as possible. I had to lead the QA team to verify the logs.**"
+  (제 목표는 근본 원인을 찾고 서비스를 최대한 빨리 복구하는 것이었습니다. 로그 확인을 위해 QA 팀을 이끌어야 했죠.)
+
+### 3. A: Action (내가 한 행동)
+- **활용**: 문제를 해결하기 위해 **내가 직접** 수행한 구체적인 행동들을 나열합니다. (가장 중요한 부분)
+- **사용하기 쉬운 문구**: "**I decided to...**" / "**First, I checked...**" / "**Then, I...**"
+- **예시**: "**First, I checked the recent code changes. Then, I identified a configuration error in the Kubernetes cluster. I immediately fixed the setting and ran a quick automated test.**"
+  (먼저 최근 코드 변경 사항을 확인했습니다. 그다음 쿠버네티스 클러스터의 설정 오류를 찾아냈죠. 즉시 설정을 수정하고 빠른 자동화 테스트를 돌렸습니다.)
+
+### 4. R: Result (결과와 교훈)
+- **활용**: 나의 행동으로 인해 얻은 수치적인 결과나 팀에 기여한 점, 배운 점을 강조합니다.
+- **사용하기 쉬운 문구**: "**In the end, we...**" / "**As a result, ...**"
+- **예시**: "**In the end, we restored the service within 30 minutes. As a result, we prevented further data loss and updated our deployment checklist to avoid similar issues.**"
+  (결국 30분 만에 서비스를 복구했습니다. 결과적으로 추가 데이터 손실을 막았고, 비슷한 문제를 피하기 위해 배포 체크리스트를 업데이트했습니다.)
