@@ -90,6 +90,34 @@
             <category>devtools</category>
         </item>
         <item>
+            <title><![CDATA[XRDP로 헤드리스 GPU 서버에 원격 GUI 접속하기]]></title>
+            <link>https://jeonck.github.io/us-start/blog/2025/07/21/xrdp-headless-gpu-server-remote-gui</link>
+            <guid>https://jeonck.github.io/us-start/blog/2025/07/21/xrdp-headless-gpu-server-remote-gui</guid>
+            <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[온프레미스 GPU 서버가 헤드리스로 운영될 때, XRDP를 설치해 Mac의 Windows App으로 원격 GUI에 접속하는 방법을 다룬 글입니다. Ubuntu에 XRDP와 XFCE 데스크톱 환경을 구성하면 그래픽 애플리케이션 관리와 디버깅이 가능해집니다.]]></description>
+            <content:encoded><![CDATA[<p>온프레미스 GPU 서버가 헤드리스로 운영될 때, XRDP를 설치해 Mac의 Windows App으로 원격 GUI에 접속하는 방법을 다룬 글입니다. Ubuntu에 XRDP와 XFCE 데스크톱 환경을 구성하면 그래픽 애플리케이션 관리와 디버깅이 가능해집니다.</p>
+<!-- -->
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="핵심-내용">핵심 내용<a href="https://jeonck.github.io/us-start/blog/2025/07/21/xrdp-headless-gpu-server-remote-gui#%ED%95%B5%EC%8B%AC-%EB%82%B4%EC%9A%A9" class="hash-link" aria-label="핵심 내용에 대한 직접 링크" title="핵심 내용에 대한 직접 링크" translate="no">​</a></h2>
+<ul>
+<li class=""><strong>문제 상황</strong>: 헤드리스 GPU 서버에서 GUI 기반 툴 실행이 필요한 경우</li>
+<li class=""><strong>해결책</strong>: Ubuntu에 XRDP + XFCE 데스크톱 환경 설치</li>
+<li class=""><strong>접속 방법</strong>: Mac의 Windows App(Microsoft Remote Desktop)으로 RDP 연결</li>
+<li class=""><strong>방화벽 설정</strong>: UFW를 통한 RDP 포트(3389) 개방 구성</li>
+<li class=""><strong>활용</strong>: 원격에서 GPU 가속 그래픽 애플리케이션 관리 및 디버깅</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="주요-기술-키워드">주요 기술 키워드<a href="https://jeonck.github.io/us-start/blog/2025/07/21/xrdp-headless-gpu-server-remote-gui#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EC%88%A0-%ED%82%A4%EC%9B%8C%EB%93%9C" class="hash-link" aria-label="주요 기술 키워드에 대한 직접 링크" title="주요 기술 키워드에 대한 직접 링크" translate="no">​</a></h2>
+<p><code>XRDP</code> <code>Ubuntu</code> <code>XFCE</code> <code>RDP</code> <code>GPU Server</code> <code>Headless</code> <code>Remote Desktop</code> <code>UFW</code> <code>Linux</code></p>
+<hr>
+<p>전문은 SK Devocean에서 확인하실 수 있습니다.</p>
+<p><strong><a href="https://devocean.sk.com/search/techBoardDetail.do?ID=167621" target="_blank" rel="noopener noreferrer" class="">→ 전체 글 읽기</a></strong></p>]]></content:encoded>
+            <category>linux</category>
+            <category>ubuntu</category>
+            <category>xrdp</category>
+            <category>gpu</category>
+            <category>devops</category>
+            <category>remote-desktop</category>
+        </item>
+        <item>
             <title><![CDATA[빠른 개발을 지원하는 K8s와 CI/CD]]></title>
             <link>https://jeonck.github.io/us-start/blog/2024/09/19/k8s-and-ci-cd-support-rapid-development</link>
             <guid>https://jeonck.github.io/us-start/blog/2024/09/19/k8s-and-ci-cd-support-rapid-development</guid>
