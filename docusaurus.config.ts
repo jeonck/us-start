@@ -48,6 +48,8 @@ const config: Config = {
         },
         blog: {
           showReadingTime: true,
+          blogSidebarCount: 'ALL',
+          blogSidebarTitle: '전체 포스트',
           feedOptions: {
             type: ['rss', 'atom'],
             xslt: true,
