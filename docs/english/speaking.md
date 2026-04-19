@@ -51,15 +51,19 @@ title: 영어 말하기 가이드
 ### 상황 1: 질문에 대해 답변을 시작할 때
 "**That’s a great question. In my previous experience at...**"
 - **활용**: 질문이 예리하거나 답변을 생각할 시간이 필요할 때 사용합니다. "좋은 질문입니다. 제가 이전에 ~에서 근무할 때 경험을 말씀드리면..." 이라는 뜻으로 자연스럽게 화제를 주도할 수 있습니다.
+- **예시**: "**That’s a great question. In my previous experience at Samsung, I handled a similar global project.**"
 
 ### 상황 2: 유사한 문제 해결 사례를 언급할 때
 "**Let me see... Actually, I solved a similar problem...**"
 - **활용**: 적절한 사례를 떠올리는 척하며 잠시 시간을 벌면서(Let me see...), 본인이 이미 유사한 문제를 해결해 본 전문가라는 점을 강조할 때 사용합니다.
+- **예시**: "**Let me see... Actually, I solved a similar problem last year when our server went down unexpectedly.**"
 
 ### 상황 3: 본인의 역할이나 구체적인 임무를 설명할 때
 "**To be specific, I was assigned to...**"
 - **활용**: 구체적으로 어떤 일을 했는지 상세하게 설명하기 시작할 때 사용합니다. "**구체적으로**" (To be specific)라는 표현은 대화의 신뢰도를 높여줍니다.
+- **예시**: "**To be specific, I was assigned to lead the development team for the new mobile application.**"
 
 ### 상황 4: 특정 시점이나 배경을 설명할 때
 "**I was working at ABC when...**"
 - **활용**: 특정 회사(ABC)에서 근무하던 당시의 상황을 설명하며 답변에 생동감을 불어넣을 때 사용합니다. "~하던 중에 ~한 일이 있었다"라는 스토리텔링 형식의 답변을 시작하기에 가장 적합한 표현입니다.
+- **예시**: "**I was working at ABC Company when we first implemented the cloud migration strategy.**"
