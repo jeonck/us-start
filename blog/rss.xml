@@ -36,6 +36,33 @@
             <category>spark</category>
         </item>
         <item>
+            <title><![CDATA[생성형 인공지능 업무 활용 사례]]></title>
+            <link>https://jeonck.github.io/us-start/blog/2025/09/18/generative-ai-use-cases</link>
+            <guid>https://jeonck.github.io/us-start/blog/2025/09/18/generative-ai-use-cases</guid>
+            <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[생성형 AI가 마케팅, 고객서비스, 소프트웨어 개발, 교육 등 다양한 산업에 어떻게 적용되는지 다룬 글입니다. Amazon Rufus, GitHub Copilot 등 실무 사례를 통해 트랜스포머·GAN·확산모델 등 핵심 기술의 현재와 초개인화·자율 에이전트로 이어지는 미래 전망을 함께 제시합니다.]]></description>
+            <content:encoded><![CDATA[<p>생성형 AI가 마케팅, 고객서비스, 소프트웨어 개발, 교육 등 다양한 산업에 어떻게 적용되는지 다룬 글입니다. Amazon Rufus, GitHub Copilot 등 실무 사례를 통해 트랜스포머·GAN·확산모델 등 핵심 기술의 현재와 초개인화·자율 에이전트로 이어지는 미래 전망을 함께 제시합니다.</p>
+<!-- -->
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="핵심-내용">핵심 내용<a href="https://jeonck.github.io/us-start/blog/2025/09/18/generative-ai-use-cases#%ED%95%B5%EC%8B%AC-%EB%82%B4%EC%9A%A9" class="hash-link" aria-label="핵심 내용에 대한 직접 링크" title="핵심 내용에 대한 직접 링크" translate="no">​</a></h2>
+<ul>
+<li class=""><strong>생성형 AI 기술</strong>: Transformer, VAE, GAN, 확산 모델(Diffusion Model) 등 주요 기술 동향</li>
+<li class=""><strong>산업별 활용</strong>: 마케팅 콘텐츠 자동화, 고객서비스 챗봇, 코드 생성, 교육 맞춤화</li>
+<li class=""><strong>실무 사례</strong>: Amazon Rufus 챗봇, GitHub Copilot, 이미지·음성 생성 서비스</li>
+<li class=""><strong>도입 고려사항</strong>: 모델 선택, 프롬프트 설계, 보안 및 윤리</li>
+<li class=""><strong>미래 전망</strong>: 초개인화, 멀티모달 AI, 자율 AI 에이전트</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="주요-기술-키워드">주요 기술 키워드<a href="https://jeonck.github.io/us-start/blog/2025/09/18/generative-ai-use-cases#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EC%88%A0-%ED%82%A4%EC%9B%8C%EB%93%9C" class="hash-link" aria-label="주요 기술 키워드에 대한 직접 링크" title="주요 기술 키워드에 대한 직접 링크" translate="no">​</a></h2>
+<p><code>Generative AI</code> <code>Transformer</code> <code>VAE</code> <code>GAN</code> <code>Diffusion Model</code> <code>Multimodal AI</code> <code>AI Agent</code> <code>GitHub Copilot</code> <code>Prompt Engineering</code></p>
+<hr>
+<p>전문은 외부 블로그에서 확인하실 수 있습니다.</p>
+<p><strong><a href="https://blog.cslee.co.kr/generative-ai-use-cases/" target="_blank" rel="noopener noreferrer" class="">→ 전체 글 읽기</a></strong></p>]]></content:encoded>
+            <category>generative-ai</category>
+            <category>llm</category>
+            <category>multimodal</category>
+            <category>automation</category>
+            <category>business</category>
+        </item>
+        <item>
             <title><![CDATA[빠른 개발을 지원하는 K8s와 CI/CD]]></title>
             <link>https://jeonck.github.io/us-start/blog/2024/09/19/k8s-and-ci-cd-support-rapid-development</link>
             <guid>https://jeonck.github.io/us-start/blog/2024/09/19/k8s-and-ci-cd-support-rapid-development</guid>
