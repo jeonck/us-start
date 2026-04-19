@@ -41,7 +41,7 @@ tags: [골프, 오스틴, 78759, 텍사스]
 ## 오스틴 시영(Public) 골프장 추천
 조금 더 이동하면 오스틴 시에서 운영하는 가성비 좋은 퍼블릭 코스들도 이용 가능합니다.
 
-* **Lions Municipal Golf Course (라이온즈 시영 골프장)**: 오스틴에서 가장 역사 깊은 코스 중 하나입니다. (2901 Enfield Rd, Austin, TX 78703)
+* **Lions Municipal Golf Course** (라이온즈 시영 골프장): 오스틴에서 가장 역사 깊은 코스 중 하나입니다. (2901 Enfield Rd, Austin, TX 78703)
 * **Hancock Golf Course**: 짧은 9홀 코스로 가볍게 즐기기 좋습니다. (811 E 41st St, Austin, TX 78751)
 
 > **팁**: 방문 전 각 클럽의 웹사이트나 전화를 통해 티타임 예약 및 멤버십 여부를 확인하시는 것을 권장합니다.

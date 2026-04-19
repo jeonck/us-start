@@ -16,6 +16,6 @@ title: 맛집 및 생활 가이드 개요
 - **Google Maps**: 실시간 영업 시간 및 리뷰 확인에 필수.
 
 ## 3. 필수 생활 앱
-- **Uber / Lyft**: 차량 호출 서비스
-- **DoorDash / Uber Eats**: 음식 배달 서비스
+- **Uber** / **Lyft**: 차량 호출 서비스
+- **DoorDash** / **Uber Eats**: 음식 배달 서비스
 - **Instacart**: 마트 장보기 대행 서비스

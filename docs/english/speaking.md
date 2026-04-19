@@ -7,15 +7,15 @@ title: 영어 말하기 가이드
 미국 생활과 업무에서 가장 중요한 '말하기'의 어려움을 해결하기 위한 전략입니다.
 
 ## 1. 구조화된 답변 연습
-내 생각을 영어로 즉석에서 번역하려고 하면 말이 꼬이고 문법에 신경 쓰게 됩니다. 대신 **'구조'**에 생각을 끼워 맞추는 연습이 필요합니다.
+내 생각을 영어로 즉석에서 번역하려고 하면 말이 꼬이고 문법에 신경 쓰게 됩니다. 대신 '**구조**'에 생각을 끼워 맞추는 연습이 필요합니다.
 
 ### PREP 기법 활용
 모든 답변을 아래 순서로 고정하여 연습하세요.
 
-1. **Point (결론부터)**: "My core strength is..."
-2. **Reason (이유)**: "Because I have experience in..."
-3. **Example (구체적 사례)**: "For instance, at my previous project..."
-4. **Point (강조)**: "That's why I'm a great fit."
+1. **Point** (결론부터): "My core strength is..."
+2. **Reason** (이유): "Because I have experience in..."
+3. **Example** (구체적 사례): "For instance, at my previous project..."
+4. **Point** (강조): "That's why I'm a great fit."
 
 ---
 
