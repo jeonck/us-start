@@ -36,6 +36,32 @@
             <category>spark</category>
         </item>
         <item>
+            <title><![CDATA[빠른 개발을 지원하는 K8s와 CI/CD]]></title>
+            <link>https://jeonck.github.io/us-start/blog/2024/09/19/k8s-and-ci-cd-support-rapid-development</link>
+            <guid>https://jeonck.github.io/us-start/blog/2024/09/19/k8s-and-ci-cd-support-rapid-development</guid>
+            <pubDate>Thu, 19 Sep 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[애자일 환경에서 Kubernetes와 CI/CD가 왜 필수인지를 다룬 글입니다. GitLab, Argo CD 등 실제 도구를 활용한 파이프라인 사례를 통해 기존 방식 대비 50% 이상의 생산성 향상을 기대할 수 있음을 보여줍니다.]]></description>
+            <content:encoded><![CDATA[<p>애자일 환경에서 Kubernetes와 CI/CD가 왜 필수인지를 다룬 글입니다. GitLab, Argo CD 등 실제 도구를 활용한 파이프라인 사례를 통해 기존 방식 대비 50% 이상의 생산성 향상을 기대할 수 있음을 보여줍니다.</p>
+<!-- -->
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="핵심-내용">핵심 내용<a href="https://jeonck.github.io/us-start/blog/2024/09/19/k8s-and-ci-cd-support-rapid-development#%ED%95%B5%EC%8B%AC-%EB%82%B4%EC%9A%A9" class="hash-link" aria-label="핵심 내용에 대한 직접 링크" title="핵심 내용에 대한 직접 링크" translate="no">​</a></h2>
+<ul>
+<li class=""><strong>K8s + CI/CD</strong>: 현대 소프트웨어 개발의 필수 요소로 개발·운영 효율성을 동시에 향상</li>
+<li class=""><strong>컨테이너 빌드 도구</strong>: Jib, Kaniko, Ko를 활용한 이미지 빌드 최적화</li>
+<li class=""><strong>GitOps 파이프라인</strong>: GitLab + GitLab Runner + Argo CD 조합의 실전 배포 자동화</li>
+<li class=""><strong>생산성</strong>: 기존 배포 방식 대비 50% 이상 향상 기대</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="주요-기술-키워드">주요 기술 키워드<a href="https://jeonck.github.io/us-start/blog/2024/09/19/k8s-and-ci-cd-support-rapid-development#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EC%88%A0-%ED%82%A4%EC%9B%8C%EB%93%9C" class="hash-link" aria-label="주요 기술 키워드에 대한 직접 링크" title="주요 기술 키워드에 대한 직접 링크" translate="no">​</a></h2>
+<p><code>Kubernetes</code> <code>CI/CD</code> <code>GitLab</code> <code>Argo CD</code> <code>GitOps</code> <code>Jib</code> <code>Kaniko</code> <code>Ko</code> <code>DevOps</code> <code>Agile</code></p>
+<hr>
+<p>전문은 외부 블로그에서 확인하실 수 있습니다.</p>
+<p><strong><a href="https://blog.cslee.co.kr/k8s-and-ci-cd-support-rapid-development/" target="_blank" rel="noopener noreferrer" class="">→ 전체 글 읽기</a></strong></p>]]></content:encoded>
+            <category>kubernetes</category>
+            <category>ci-cd</category>
+            <category>devops</category>
+            <category>gitops</category>
+            <category>automation</category>
+        </item>
+        <item>
             <title><![CDATA[누구나 현자를 보유한다 'GPTs']]></title>
             <link>https://jeonck.github.io/us-start/blog/2024/05/10/everyone-has-sage-gpts</link>
             <guid>https://jeonck.github.io/us-start/blog/2024/05/10/everyone-has-sage-gpts</guid>
