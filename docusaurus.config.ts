@@ -81,12 +81,13 @@ const config: Config = {
         src: 'img/logo.svg',
       },
       items: [
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: '생활 정보',
-        },
+        {to: '/docs/english/speaking', label: '🗣️ 영어', position: 'left'},
+        {to: '/docs/housing/overview', label: '🏠 주거', position: 'left'},
+        {to: '/docs/admin/overview', label: '📋 행정', position: 'left'},
+        {to: '/docs/education/overview', label: '🎓 교육', position: 'left'},
+        {to: '/docs/finance/overview', label: '💰 금융', position: 'left'},
+        {to: '/docs/leisure/golf/overview', label: '🏌️ 골프', position: 'left'},
+        {to: '/docs/lifestyle/overview', label: '🍎 맛집/생활', position: 'left'},
         {to: '/blog', label: '블로그', position: 'left'},
         {
           href: 'https://github.com/jeonck/us-start',
