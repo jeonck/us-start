@@ -115,6 +115,7 @@ title: 해외이주용 자금 반출
 이미 해외 영주권을 취득했거나 시민권자가 된 재외동포가 국내에 남아있는 예금이나 본인 명의 자산을 해외로 보내는 방법입니다.
 
 **근거 법령**: 외국환거래법 제10조 및 외국환거래규정 제4-7조
+> 🔗 **공식 안내**: [한국은행 대외지급수단매매 신고 안내](https://www.bok.or.kr/portal/bbs/P0002013/view.do?nttId=229960&searchCnd=1&searchKwd=&depth2=201157&depth3=201293&depth4=200401&date=&sdate=&edate=&sort=1&pageUnit=10&depth=200401&pageIndex=2&programType=newsData&menuNo=200401&oldMenuNo=200401)
 
 ### 대상 및 절차
 
