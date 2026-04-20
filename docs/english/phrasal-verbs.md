@@ -1,0 +1,390 @@
+---
+title: 필수 구동사 사전
+---
+
+# 📖 필수 구동사(Phrasal Verbs) 사전
+
+미국 비즈니스 현장과 일상생활에서 빈번하게 사용되는 핵심 구동사들을 상황별 예문과 함께 정리했습니다. 전치사/부사별로 분류하여 학습 효율을 높였습니다.
+
+---
+
+## 1. ON 계열 (지속, 접촉, 가동)
+
+### Put on
+*   **착용하기 (옷, 장비 등)**: "Please put on your safety vest before entering the data center." (데이터 센터에 들어가기 전에 안전 조끼를 착용해 주세요.)
+*   **작동시키다 / 가동하다**: "Could you put on the air conditioner? It's getting a bit warm in the office." (사무실이 좀 더워지는데 에어컨 좀 켜 주시겠어요?)
+*   **준비하다 / 마련하다**: "The company decided to put on a special workshop for new employees next week." (회사는 다음 주에 신입 사원들을 위한 특별 워크숍을 열기로 했습니다.)
+
+### Turn on
+*   **기기나 장비를 켜다**: "Remember to turn on the VPN before accessing the internal network." (내부 네트워크에 접속하기 전에 VPN을 켜는 것을 잊지 마세요.)
+*   **관심이나 흥미를 끌다**: "The new project’s innovative approach really turned on the potential investors." (그 프로젝트의 혁신적인 접근 방식은 잠재적 투자자들의 관심을 강하게 끌었습니다.)
+*   **갑자기 공격적으로 변하다**: "The customer was calm, but he suddenly turned on the staff when the issue wasn't resolved." (고객은 차분했으나 문제가 해결되지 않자 갑자기 직원에게 화를 내며 몰아세웠습니다.)
+
+### Move on
+*   **다음 주제로 넘어가다**: "Since we've covered the security updates, let's move on to the budget review." (보안 업데이트 사항은 다 다뤘으니, 이제 예산 검토로 넘어갑시다.)
+*   **새로운 일(직장)을 시작하다**: "He enjoyed his time at the firm, but he's ready to move on to a new challenge in Austin." (그는 회사에서의 생활이 즐거웠지만, 이제 오스틴에서 새로운 도전을 시작할 준비가 되었습니다.)
+*   **과거의 일을 뒤로하고 나아가다**: "It was a difficult setback, but the team decided to move on and focus on the next sprint." (힘든 고비였지만, 팀은 그 일을 털어버리고 다음 스프린트에 집중하기로 했습니다.)
+
+### Get on
+*   **교통수단에 올라타다**: "I usually get on the bus right in front of my apartment complex." (저는 보통 아파트 단지 바로 앞에서 버스를 삽니다.)
+*   **~와 잘 지내다 (관계)**: "It is important to get on well with your coworkers when starting a new job." (새로운 일을 시작할 때는 동료들과 잘 지내는 것이 중요합니다.)
+*   **일을 계속하다 / 대처하다**: "We have a tight deadline, so we need to get on with the data analysis immediately." (마감 기한이 촉박하니, 즉시 데이터 분석 업무를 계속 진행해야 합니다.)
+
+### Count on
+*   **~를 믿다 / 의지하다**: "You can count on me to finish the security audit by Friday." (금요일까지 보안 감사를 마칠 수 있도록 저를 믿으셔도 됩니다.)
+*   **~을 확신하다 / 기대하다**: "We didn't count on the weather being so hot in Texas during April." (4월의 텍사스 날씨가 이렇게 더울 줄은 예상치 못했습니다.)
+*   **의지하다**: "The team is counting on the new software to automate the data verification process." (팀은 데이터 검증 과정을 자동화하기 위해 새 소프트웨어에 의지하고 있습니다.)
+
+### Hold on
+*   **기다리다 (잠시 멈추다)**: "Could you hold on for a moment while I check the server status?" (서버 상태를 확인하는 동안 잠시만 기다려 주시겠어요?)
+*   **꽉 잡다 (견디다)**: "The market is volatile, but we should hold on to our long-term investments." (시장이 불안정하지만, 우리의 장기 투자 종목들은 계속 유지해야 합니다.)
+*   **유지하다 (통화 등)**: "Please hold on the line; I will transfer your call to the technical support department." (전화를 끊지 말고 기다려 주세요. 기술 지원 부서로 연결해 드리겠습니다.)
+
+### Work on
+*   **개선하다 / 공을 들이다**: "I need to work on my presentation skills for the upcoming interview." (다가올 인터뷰를 위해 발표 실력을 개선하는 데 공을 들여야 합니다.)
+*   **작업 중이다**: "The engineering team is currently working on fixing the system bug." (엔지니어링 팀이 현재 시스템 버그를 수정하는 작업을 진행 중입니다.)
+*   **설득하다 / 영향을 미치다**: "I'm still working on my manager to get approval for the new software purchase." (새 소프트웨어 구매 승인을 받기 위해 여전히 매니저를 설득하고 있습니다.)
+
+### Go on
+*   **계속하다**: "Even with the recent market volatility, I decided to go on with my systematic investment plan for long-term growth." (최근의 시장 변동성에도 불구하고, 장기적인 성장을 위해 기존의 시스템 투자 계획을 계속 이어가기로 했습니다.)
+*   **일어나다 / 벌어지다**: "I need to check the system logs to understand exactly what is going on with the server latency issues." (서버 지연 문제와 관련하여 정확히 어떤 일이 벌어지고 있는지 파악하기 위해 시스템 로그를 확인해야 합니다.)
+*   **다음 단계로 넘어가다**: "Once the data diagnostic tool is stable, we can go on to integrate the multi-agent AI features for full automation." (데이터 진단 도구가 안정화되면, 완전한 자동화를 위한 멀티 에이전트 AI 기능 통합 단계로 넘어갈 수 있습니다.)
+
+---
+
+## 2. OFF 계열 (분리, 중단, 출발)
+
+### Be off
+*   **떠나다 / 출발하다**: "I’ll be off to the office in ten minutes to beat the morning traffic." (아침 교통 체증을 피하려고 10분 뒤에 사무실로 출발할 예정입니다.)
+*   **상태가 나쁘다 / 상하다**: "I think the milk might be off, so you’d better check the expiration date." (우유가 상한 것 같으니 유통기한을 확인해 보는 게 좋겠어요.)
+*   **기량이 떨어지다**: "My focus was a bit off during the meeting today because I didn't sleep well." (잠을 잘 못 자서 그런지 오늘 회의 중에는 집중력이 평소보다 조금 떨어졌습니다.)
+
+### Come off
+*   **성공적으로 이루어지다**: "The complex system migration was risky, but it managed to come off without any major issues." (복잡한 시스템 마이그레이션은 위험부담이 컸지만, 큰 문제 없이 성공적으로 끝났습니다.)
+*   **인상을 주다**: "During the interview, he came off as a very experienced and professional engineer." (인터뷰 동안 그는 매우 경험 많고 전문적인 엔지니어라는 인상을 주었습니다.)
+*   **떨어지다**: "The label started to come off the equipment, so we need to replace it for identification." (장비에서 라벨이 떨어지기 시작해서 식별을 위해 교체해야 합니다.)
+
+### Pay off
+*   **결실을 맺다**: "All the hard work you put into learning Python will surely pay off in your next project." (파이썬 학습에 들인 모든 노력이 다음 프로젝트에서 분명히 결실을 맺을 것입니다.)
+*   **모두 갚다**: "It took a few years, but we finally managed to pay off the entire mortgage." (몇 년이 걸렸지만, 마침내 주택 담보 대출을 모두 상환했습니다.)
+*   **매수하다 (뇌물)**: "The investigation revealed that the contractor tried to pay off a local official." (조사 결과, 해당 업체가 지역 공무원을 매수하려 했던 사실이 밝혀졌습니다.)
+
+### Go off
+*   **알람·경보가 울리다**: "The fire alarm suddenly went off while we were testing the new server rack." (새 서버 랙을 테스트하는 중에 화재 경보기가 갑자기 울렸습니다.)
+*   **중단되다 / 나가다**: "The power went off during the storm, but the backup system kicked in immediately." (폭풍우 중에 전기가 나갔지만, 백업 시스템이 즉시 가동되었습니다.)
+*   **폭발하다**: "The demonstration was cancelled after a small firework went off unexpectedly." (작은 폭죽이 예기치 않게 터지는 바람에 시연회가 취소되었습니다.)
+
+### Turn off
+*   **기기를 끄다**: "Please remember to turn off your monitors and lights before leaving the office." (퇴근하기 전에 모니터와 전등을 끄는 것을 잊지 마세요.)
+*   **흥미를 잃게 하다**: "The complicated user interface might turn off potential customers from using the app." (복잡한 사용자 인터페이스는 잠재적인 고객들이 앱을 사용하는 데 흥미를 잃게 만들 수 있습니다.)
+*   **길을 벗어나다**: "You need to turn off at the next exit to get to the Round Rock area." (라운드락 지역으로 가려면 다음 출구에서 길을 빠져나가야 합니다.)
+
+### Take off
+*   **이륙하다 / 급격히 성공하다**: "The startup's new AI automation service is expected to take off this year." (그 스타트업의 새로운 AI 자동화 서비스는 올해 크게 도약할 것으로 기대됩니다.)
+*   **벗다 / 제거하다**: "You should take off your wet jacket before you sit down in the office." (사무실에 앉기 전에 젖은 재킷을 벗는 게 좋겠어요.)
+*   **휴가를 내다**: "I'm planning to take off next Monday to finalize the house move." (이사 마무리를 위해 다음 주 월요일에 휴가를 낼 계획입니다.)
+
+### Put off
+*   **미루다 / 연기하다**: "We had to put off the system migration until next weekend due to a technical issue." (기술적인 문제로 인해 시스템 마이그레이션을 다음 주말까지 미뤄야 했습니다.)
+*   **방해하다**: "Please stay quiet; the loud noise might put off the engineers during the inspection." (조용히 해주세요. 큰 소음이 점검 중인 엔지니어들의 집중력을 흐릴 수 있습니다.)
+*   **불쾌하게 하다**: "The poor customer service at that store really put off many potential buyers." (그 매장의 불친절한 고객 서비스는 많은 잠재적 구매자들에게 불쾌감을 주었습니다.)
+
+### Call off
+*   **취소하다**: "The management decided to call off the meeting because the director was unavailable." (이사님이 시간이 되지 않아 경영진은 회의를 취소하기로 결정했습니다.)
+*   **중단 / 철수시키다**: "The search for the system error was called off after the team identified the root cause." (팀이 근본 원인을 파악한 후 시스템 오류 추적 작업이 중단되었습니다.)
+*   **멈추게 하다**: "The manager had to call off the aggressive marketing campaign due to negative feedback." (부정적인 피드백 때문에 매니저는 공격적인 마케팅 캠페인을 중단시켜야 했습니다.)
+
+### Get off
+*   **내리다**: "I need to get off at the next stop to reach the library." (도서관에 가려면 다음 정거장에서 내려야 합니다.)
+*   **퇴근하다**: "What time do you usually get off work on Fridays?" (금요일에는 보통 몇 시에 퇴근하시나요?)
+*   **처벌을 면하다**: "The driver was lucky to get off with just a small fine after the minor accident." (운전자는 가벼운 사고 후 겨우 소액의 벌금만 내고 풀려나서 다행이었습니다.)
+
+### Rip off
+*   **바가지를 씌우다**: "The tourist shop tried to rip off the visitors by charging double the price for souvenirs." (그 기념품 가게는 기념품 가격을 두 배로 받아 방문객들에게 바가지를 씌우려 했습니다.)
+*   **도용하다 / 훔치다**: "The company was sued for trying to rip off a smaller competitor's software design." (그 회사는 작은 경쟁사의 소프트웨어 디자인을 도용하려 한 혐의로 소송을 당했습니다.)
+*   **떼어내다**: "Be careful when you rip off the old screen protector so you don't scratch the glass." (액정이 긁히지 않도록 오래된 화면 보호 필름을 떼어낼 때 조심하세요.)
+
+---
+
+## 3. OUT 계열 (완성, 발견, 외부)
+
+### Drop out
+*   **중도 하차하다**: "He decided to drop out of the professional certification course to focus on his new job." (그는 새 업무에 집중하기 위해 전문 자격증 과정에서 중도 하차하기로 했습니다.)
+*   **빠지다 (불참)**: "One of the key speakers had to drop out of the tech conference at the last minute." (주요 연사 중 한 명이 마지막 순간에 기술 컨퍼런스 참여를 취소해야 했습니다.)
+*   **끊기다 (신호)**: "The audio started to drop out during the video call due to a poor internet connection." (인터넷 연결이 불안정해서 화상 회의 중에 오디오가 끊기기 시작했습니다.)
+
+### Figure out
+*   **이해하다 / 알아내다**: "We need to figure out why the production server keeps restarting." (운영 서버가 왜 계속 재부팅되는지 원인을 알아내야 합니다.)
+*   **생각해내다**: "The team is trying to figure out a way to automate the data migration process." (팀은 데이터 마이그레이션 과정을 자동화할 방법을 찾기 위해 노력 중입니다.)
+*   **파악하다 (성격 등)**: "It’s taking me some time to figure out the new office culture and workflow." (새로운 사무실 문화와 업무 흐름을 파악하는 데 시간이 좀 걸리고 있습니다.)
+
+### Run out
+*   **다 써버리다 / 바닥나다**: "We are about to run out of storage space on the cloud server, so we need to upgrade the plan." (클라우드 서버의 저장 공간이 거의 다 바닥나서 플랜을 업그레이드해야 합니다.)
+*   **만료되다**: "My professional certification will run out next month, so I need to prepare for renewal." (전문 자격증 유효 기간이 다음 달에 만료되어 갱신 준비를 해야 합니다.)
+*   **뛰어 나가다**: "He had to run out of the meeting to take an urgent call from the data center." (그는 데이터 센터에서 온 급한 전화를 받기 위해 회의 도중 밖으로 뛰어 나가야 했습니다.)
+
+### Burn out
+*   **번아웃되다**: "After working on the infrastructure migration for months, the team began to burn out." (몇 달 동안 인프라 마이그레이션 작업을 진행한 후, 팀원들은 번아웃되기 시작했습니다.)
+*   **수명이 다하다 (전구 등)**: "The light bulb in the server room finally burned out after being on for two years." (서버실의 전구가 2년 동안 켜져 있다가 마침내 수명이 다해 꺼졌습니다.)
+*   **타버리다 (과열)**: "The motor in the old cooling fan burned out due to the continuous high-speed operation." (지속적인 고속 작동으로 인해 오래된 냉각팬의 모터가 타버렸습니다.)
+
+### Sort out
+*   **문제를 해결하다**: "We had some technical glitches during the update, but the support team managed to sort out the issue." (업데이트 중에 기술적인 결함이 좀 있었지만, 지원팀이 문제를 잘 해결했습니다.)
+*   **정리하다 / 분류하다**: "I need to sort out these audit documents before the meeting starts this afternoon." (오늘 오후 회의가 시작되기 전에 이 감사 서류들을 정리해야 합니다.)
+*   **수습하다**: "It took a while to sort out the logistics for our relocation to a new office." (새 사무실로의 이전 물류 계획을 정리하는 데 시간이 좀 걸렸습니다.)
+
+### Turn out
+*   **밝혀지다 (드러나다)**: "The system error turned out to be a simple configuration mistake." (시스템 오류는 결과적으로 단순한 설정 실수였음이 밝혀졌습니다.)
+*   **참석하다**: "Many local residents turned out for the community meeting at the school district." (학군에서 열린 지역 주민 회의에 많은 사람이 참석했습니다.)
+*   **불을 끄다**: "Please turn out the lights in the conference room after you finish your presentation." (발표를 마친 후 컨퍼런스 룸의 전등을 꺼 주시기 바랍니다.)
+
+### Point out
+*   **지적하다 / 언급하다**: "The auditor was quick to point out the inconsistencies in the financial data." (감사인은 재무 데이터의 불일치 사항을 신속하게 지적했습니다.)
+*   **주의를 환기시키다**: "I would like to point out that the new security policy applies to all employees." (새로운 보안 정책이 모든 직원에게 적용된다는 점을 말씀드리고 싶습니다.)
+*   **지목하다**: "Can you point out which server in the rack is causing the overheating issue?" (랙에 있는 서버 중 어떤 것이 과열 문제를 일으키고 있는지 지목해 주시겠어요?)
+
+### Work out
+*   **해결하다 / 답을 내다**: "We need to work out a way to integrate the new API with our existing legacy system." (새로운 API를 기존 레거시 시스템과 통합할 수 있는 방법을 찾아내야 합니다.)
+*   **잘 풀리다**: "Things didn't go as planned at first, but everything worked out well in the end." (처음에는 계획대로 되지 않았지만, 결국 모든 일이 잘 풀렸습니다.)
+*   **운동하다**: "I try to work out at the gym at least three times a week to stay healthy." (건강을 유지하기 위해 적어도 일주일에 세 번은 체육관에서 운동하려고 노력합니다.)
+
+### Check out
+*   **확인하다 / 살펴보다**: "You should check out the latest documentation on the Model Context Protocol for your AI project." (당신의 AI 프로젝트를 위해 모델 컨텍스트 프로토콜(MCP)의 최신 문서를 확인해 보는 것이 좋겠습니다.)
+*   **체크아웃하다**: "We need to check out of the hotel by 11 AM before heading to the airport." (공항으로 가기 전에 오전 11시까지는 호텔에서 체크아웃을 해야 합니다.)
+*   **대출하다 (도서)**: "I'm going to the local library to check out some books on systematic investment strategies." (시스템 투자 전략에 관한 책 몇 권을 빌리러 지역 도서관에 갈 예정입니다.)
+
+### Ask out
+*   **데이트를 신청하다**: "He finally gathered the courage to ask her out for dinner this weekend." (그는 마침내 이번 주말에 그녀에게 저녁 데이트를 신청할 용기를 냈습니다.)
+*   **외식을 제안하다**: "Since it's such a nice day, why don't we ask the whole team out for lunch?" (날씨가 너무 좋으니, 팀 전체에 점심 외식을 제안해 보는 게 어떨까요?)
+*   **나들이를 권유하다**: "I'm thinking of asking my neighbors out to the local golf course for a walking round." (이웃들에게 지역 골프장에서 걷기 라운딩을 하자고 권유해 볼 생각입니다.)
+
+### Go out
+*   **외출 / 사교 모임**: "Would you like to go out for dinner with the team after the project is finalized?" (프로젝트가 마무리된 후 팀원들과 함께 저녁 외식을 하러 가시겠어요?)
+*   **불이 꺼지다**: "The streetlights usually go out automatically at sunrise." (가로등은 보통 해가 뜨면 자동으로 꺼집니다.)
+*   **사귀다 (교제)**: "They have been going out for three years and are planning to get married soon." (그들은 3년 동안 사귀어 왔으며 곧 결혼할 계획입니다.)
+
+### Make out
+*   **이해 / 알아채다**: "It was difficult to make out what the speaker was saying because of the poor audio quality." (오디오 음질이 좋지 않아 연사가 말하는 내용을 알아듣기 어려웠습니다.)
+*   **작성하다 (수표 등)**: "Please make out the check to the order of the management office for the monthly fee." (관리비 수표를 관리사무소 앞으로 발행해 주시기 바랍니다.)
+*   **~인 척하다**: "He tried to make himself out to be an expert in the field, though he had little experience." (그는 경험이 거의 없었음에도 불구하고 자신이 그 분야의 전문가인 것처럼 보이려 했습니다.)
+
+### Come out
+*   **출시되다**: "The new version of the software is expected to come out early next month with improved security features." (보안 기능이 향상된 소프트웨어의 새 버전이 다음 달 초에 출시될 예정입니다.)
+*   **드러나다 / 밝혀지다**: "The truth about the system vulnerability finally came out during the internal audit." (시스템 취약점에 대한 진실이 내부 감사 중에 마침내 밝혀졌습니다.)
+*   **의견을 표하다**: "Several experts have come out in favor of using multi-agent AI systems for automation." (여러 전문가가 자동화를 위해 멀티 에이전트 AI 시스템을 사용하는 것에 찬성한다는 의견을 내놓았습니다.)
+
+### Freak out
+*   **당황 / 자제력을 잃다**: "Don't freak out, but the primary database server just went offline." (당황하지 마세요, 그런데 방금 메인 데이터베이스 서버 연결이 끊겼습니다.)
+*   **기겁하다**: "My kids usually freak out when they see a large spider in the backyard." (우리 아이들은 뒷마당에서 커다란 거미를 보면 보통 기겁을 하곤 합니다.)
+*   **흥분 / 화나게 하다**: "The sudden change in the project requirements really freaked out the development team." (프로젝트 요구 사항의 갑작스러운 변경은 개발팀을 정말 화나고 당황스럽게 만들었습니다.)
+
+---
+
+## 4. IN 계열 (참여, 진입)
+
+### Jump in
+*   **끼어들다 (대화 등)**: "Feel free to jump in if you have any questions during the system architecture briefing." (시스템 아키텍처 브리핑 중간에 질문이 있다면 언제든 편하게 끼어드셔도 됩니다.)
+*   **시작 / 뛰어들다**: "We need someone to jump in and help with the data quality diagnostic tool immediately." (데이터 품질 진단 도구 작업을 즉시 도와줄 사람이 필요합니다.)
+*   **얼른 올라타다**: "We’re leaving for the golf course now, so jump in the car if you're ready." (지금 골프장으로 출발할 예정이니, 준비됐으면 어서 차에 타세요.)
+
+### Pop in
+*   **잠깐 들르다**: "I’ll pop in to the office tomorrow morning to drop off the audit reports." (감사 보고서를 전달하러 내일 아침에 사무실에 잠시 들르겠습니다.)
+*   **불쑥 나타나다 / 생각나다**: "A great idea for the new automation script just popped in my head during the commute." (출근하던 중에 새로운 자동화 스크립트에 대한 좋은 아이디어가 갑자기 떠올랐습니다.)
+*   **집어넣다**: "Just pop the recovery disk in the drive and restart the system to begin the repair." (복구 디스크를 드라이브에 넣고 시스템을 재시작하여 수리를 시작하세요.)
+
+### Cut in
+*   **가로막다 / 끼어들다**: "I'm sorry to cut in, but I have an urgent update regarding the network security patch." (말씀 중에 끼어들어 죄송합니다만, 네트워크 보안 패치와 관련하여 긴급히 전달할 내용이 있습니다.)
+*   **차량 끼어들기**: "The car suddenly cut in front of me on the highway, so I had to brake hard." (고속도로에서 차 한 대가 갑자기 제 앞으로 끼어드는 바람에 급브레이크를 밟아야 했습니다.)
+*   **자동 작동 시작**: "When the server room temperature rises above a certain point, the backup cooling system cuts in." (서버실 온도가 일정 수준 이상으로 올라가면 백업 냉각 시스템이 자동으로 작동하기 시작합니다.)
+
+### Take in
+*   **흡수 / 섭취**: "Plants take in carbon dioxide and release oxygen during the day." (식물은 낮 동안 이산화탄소를 흡수하고 산소를 배출합니다.)
+*   **이해 / 받아들이다**: "The new technical specifications were so complex that it took me a while to take it all in." (새로운 기술 사양서가 너무 복잡해서 그 내용을 모두 이해하는 데 시간이 좀 걸렸습니다.)
+*   **감상 / 구경**: "We decided to drive downtown to take in the beautiful views of the Austin skyline." (우리는 오스틴 스카이라인의 아름다운 전경을 감상하기 위해 시내로 드라이브를 가기로 했습니다.)
+
+### Fill in
+*   **작성 / 채우다**: "Please fill in your contact information and technical certifications on the application form." (신청서에 연락처 정보와 보유하신 기술 자격증들을 기입해 주시기 바랍니다.)
+*   **정보를 알려주다**: "Could you fill me in on the details of the final interview process at the semiconductor company?" (그 반도체 회사의 최종 면접 과정이 어땠는지 자세히 설명해 주실 수 있나요?)
+*   **대리 근무**: "One of the system auditors is on leave, so I have to fill in for him this week." (시스템 감사인 중 한 명이 휴가 중이라 이번 주는 제가 그를 대신해 업무를 처리해야 합니다.)
+
+---
+
+## 5. UP 계열 (상승, 완료, 개선)
+
+### Keep up
+*   **따라가다 / 뒤처지지 않다**: "It’s challenging to keep up with the rapid advancements in multi-agent AI systems and MCP technology." (멀티 에이전트 AI 시스템과 MCP 기술의 빠른 발전 속도를 따라가는 것은 도전적인 일입니다.)
+*   **지속 / 유지하다**: "You've been doing a great job with the systematic investment strategy; keep up the good work!" (시스템 투자 전략을 아주 잘 수행하고 계시네요. 계속해서 수고해 주세요!)
+*   **소식을 파악하다**: "I use Streamlit dashboards to keep up with the latest trends in the U.S. ETF and crypto markets." (저는 미국 ETF와 암호화폐 시장의 최신 동향을 계속 파악하기 위해 스트림릿 대시보드를 사용합니다.)
+
+### Catch up
+*   **따라잡다**: "I need to catch up on the latest security protocols before starting the new infrastructure project." (새로운 인프라 프로젝트를 시작하기 전에 최신 보안 프로토콜들을 따라잡아야 합니다.)
+*   **근황을 나누다**: "Let’s grab a coffee this weekend and catch up on how everyone is doing in Austin." (이번 주말에 커피 한잔하면서 오스틴에서의 근황을 서로 나누도록 해요.)
+*   **밀린 일을 처리하다**: "I'm planning to stay late today to catch up with the documentation for the data quality tool." (데이터 품질 도구 관련 문서 작업을 마무리하기 위해 오늘 늦게까지 남아서 밀린 일을 처리할 계획입니다.)
+
+### Come up
+*   **아이디어를 제시하다**: "We need to come up with a more efficient automation script to handle the large-scale dataset verification." (대규모 데이터셋 검증을 처리하기 위해 더 효율적인 자동화 스크립트를 고안해내야 합니다.)
+*   **일이 발생하다**: "I'm sorry, I can't make it to the meeting; something urgent has come up regarding the server migration." (죄송합니다만, 서버 이전과 관련해 급한 일이 생겨서 회의에 참석하지 못할 것 같습니다.)
+*   **기준에 부합하다**: "The initial audit results didn't quite come up to our quality assurance standards, so we need a re-evaluation." (초기 감사 결과가 우리의 품질 보증 기준에 미치지 못했으므로 재평가가 필요합니다.)
+
+### Break up
+*   **관계가 끝나다**: "The partnership between the two tech firms began to break up after disagreements over the AI patent." (그 두 기술 기업 간의 파트너십은 AI 특허에 대한 이견으로 인해 결렬되기 시작했습니다.)
+*   **나누다 / 분산**: "To manage the systematic investment more effectively, I decided to break up the portfolio into several high-growth ETFs." (시스템 투자를 더 효과적으로 관리하기 위해, 포트폴리오를 여러 개의 고성장 ETF로 나누기로 결정했습니다.)
+*   **신호가 끊기다**: "You’re starting to break up; I think the signal in this part of the building is weak." (목소리가 끊기기 시작하네요. 건물 이쪽 구역은 신호가 약한 것 같습니다.)
+
+### Make up
+*   **보충 / 만회하다**: "I missed a few days of work, so I need to make up the time by staying late this week." (며칠 결근을 해서 이번 주에 늦게까지 남아 그 시간을 보충해야 합니다.)
+*   **구성 / 형성하다**: "Technical certifications and 30 years of experience make up a strong professional profile." (기술 자격증들과 30년의 경력이 강력한 전문 프로필을 구성합니다.)
+*   **화해하다**: "They had a minor disagreement about the investment strategy, but they quickly made up." (그들은 투자 전략에 대해 약간의 이견이 있었지만, 곧바로 화해했습니다.)
+
+### Check up
+*   **진행 상황 확인**: "I'll check up on the progress of the automated data quality tool later this afternoon." (오늘 오후 늦게 자동화 데이터 품질 도구의 진행 상황을 확인해 보겠습니다.)
+*   **정기 검진**: "It’s important to check up on your health regularly, especially when navigating a busy relocation schedule." (바쁜 이주 일정을 소화할 때는 특히 정기적으로 건강 상태를 체크하는 것이 중요합니다.)
+*   **안부를 확인하다**: "I should check up on my brother to see if he needs any help with the family insurance paperwork." (가족 보험 서류 관련해서 도움이 필요한지 남동생에게 연락해 봐야겠습니다.)
+
+### Show up
+*   **나타나다 / 등장**: "The system errors didn't show up during the initial testing, but they appeared in the production environment." (초기 테스트 단계에서는 시스템 오류가 나타나지 않았지만, 운영 환경에서 발생했습니다.)
+*   **참석하다**: "Everyone was expected to show up for the team meeting at the Austin office by 9 AM." (모두가 오전 9시까지 오스틴 사무실에서 열리는 팀 회의에 참석하기로 되어 있었습니다.)
+*   **돋보이다 / 두드러지다**: "Your extensive career in IT infrastructure really shows up in the quality of your technical reports." (IT 인프라 분야에서의 폭넓은 경력이 기술 보고서의 품질에서 정말 돋보입니다.)
+
+### Warm up
+*   **준비 운동**: "It is important to warm up properly before starting a walking round of golf to prevent injuries." (부상을 방지하기 위해 골프 워킹 라운드를 시작하기 전 제대로 몸을 푸는 것이 중요합니다.)
+*   **데우다**: "The weather in Austin is getting a bit chilly, so I’ll warm up some soup for dinner." (오스틴 날씨가 조금 쌀쌀해지고 있어서 저녁으로 수프를 좀 데워야겠어요.)
+*   **예열 / 준비되다**: "Let the server warm up for a few minutes after the maintenance before putting it back into full production." (유지보수 후 서버를 다시 운영 환경에 투입하기 전에 몇 분 동안 예열되도록 두세요.)
+
+### Warm up to
+*   **마음이 열리다**: "The team was skeptical at first, but they are starting to warm up to the idea of using multi-agent AI systems." (팀원들이 처음에는 회의적이었지만, 멀티 에이전트 AI 시스템을 도입하는 아이디어에 서서히 마음을 열기 시작했습니다.)
+*   **적응하다**: "It might take a little while for the family to warm up to our new neighborhood in Austin." (가족들이 오스틴의 새로운 동네에 적응하고 정을 붙이는 데 시간이 조금 걸릴 수도 있습니다.)
+*   **활기를 띠다**: "The market for systematic investment is beginning to warm up to new crypto-based ETFs." (시스템 투자 시장이 새로운 암호화폐 기반 ETF들에 점차 활기를 띠며 반응하기 시작했습니다.)
+
+### End up
+*   **결국 ~하게 되다**: "We planned to visit several houses, but we ended up spending the whole day looking at schools in Round Rock." (여러 집을 둘러볼 계획이었지만, 결국 하루 종일 라운드 록 지역의 학교들을 알아보게 되었습니다.)
+*   **결국 도달하다**: "If you keep following this road toward downtown Austin, you'll end up right near the Lady Bird Lake." (이 길을 따라 오스틴 시내 쪽으로 계속 가다 보면, 결국 레이디 버드 호수 바로 근처에 도착하게 됩니다.)
+*   **결국 ~로 끝나다**: "I was considering several different semiconductor roles, but I ended up accepting the position in Austin." (몇 가지 다른 반도체 관련 직무를 고려 중이었으나, 결국 오스틴에 있는 자리를 수락하게 되었습니다.)
+
+### Look up
+*   **정보를 찾아보다**: "I need to look up the specific requirements for the Information Management Professional Engineer certification renewal." (정보관리기술사 자격 갱신을 위한 세부 요건을 찾아봐야 합니다.)
+*   **호전되다**: "After a slow start this year, the performance of my semiconductor-heavy ETF portfolio is finally starting to look up." (올해 초반의 부진을 지나, 반도체 비중이 높은 제 ETF 포트폴리오의 실적이 마침내 나아지기 시작했습니다.)
+*   **방문 / 연락**: "If you ever travel to Austin, be sure to look me up so we can grab some Texas BBQ." (오스틴에 오실 일이 있다면 꼭 저에게 연락해 주세요. 같이 텍사스 바비큐라도 먹으러 갑시다.)
+
+### Look up to
+*   **존경하다**: "Many junior engineers look up to him because of his 30-year career and expertise as a Professional Engineer." (그의 30년 경력과 기술사로서의 전문성 때문에 많은 후배 엔지니어들이 그를 존경합니다.)
+*   **모범으로 삼다**: "As a leader in IT infrastructure, it’s important to act in a way that your team members can look up to." (IT 인프라 분야의 리더로서, 팀원들이 모범으로 삼을 수 있도록 행동하는 것이 중요합니다.)
+*   **롤모델로 여기다**: "My daughters look up to successful professionals in the tech industry as they think about their own future careers." (제 딸들은 자신의 미래 커리어를 고민하며 기술 산업의 성공한 전문가들을 롤모델로 삼고 있습니다.)
+
+### Wrap up
+*   **마무리 짓다 (회의 등)**: "Let's wrap up this meeting about the server migration so we can get back to our implementation tasks." (서버 이전 회의를 이만 마무리해서 각자 구현 작업으로 복귀하도록 합시다.)
+*   **완수하다**: "I hope to wrap up the final documentation for the data quality tool by the end of this week." (이번 주 말까지 데이터 품질 도구의 최종 문서 작업을 마무리하고 싶습니다.)
+*   **포장하다**: "I need to stop by the store to buy some paper to wrap up the gifts for my daughters' birthdays." (딸들의 생일 선물을 포장할 종이를 사러 가게에 좀 들러야겠어요.)
+
+### Wrapped myself up
+*   **몸을 감싸다**: "The air conditioning in the office was so cold that I wrapped myself up in a thick cardigan." (사무실 에어컨 바람이 너무 차가워서 두꺼운 가디건으로 몸을 꽁꽁 감싸고 있었습니다.)
+*   **몰두 / 열중하다**: "I completely wrapped myself up in developing the multi-agent AI system and didn't notice how late it was." (멀티 에이전트 AI 시스템 개발에 완전히 몰두하느라 시간이 그렇게 늦었는지도 몰랐습니다.)
+*   **생각에 잠기다**: "During the relocation process, I occasionally wrapped myself up in thoughts about the new challenges in Austin." (이주 과정을 거치면서 가끔은 오스틴에서의 새로운 도전들에 대한 생각에 깊이 빠지곤 했습니다.)
+
+---
+
+## 6. OVER 계열 (반복, 이전, 완료)
+
+### Come over
+*   **방문 / 놀러 오다**: "Why don't you come over to my place in Austin this weekend? We can try some Texas BBQ in the backyard." (이번 주말에 오스틴에 있는 저희 집에 들르는 건 어떠세요? 마당에서 텍사스 바비큐를 같이 즐겨봐요.)
+*   **감정이 엄습하다**: "A sense of relief came over me when I finally completed the relocation process and settled into my new home." (이주 과정을 모두 마치고 마침내 새집에 정착했을 때, 안도감이 확 밀려왔습니다.)
+*   **건너오다**: "My younger brother is planning to come over to the U.S. later this year to visit my family." (제 남동생이 저희 가족을 만나러 올해 하반기에 미국으로 건너올 계획입니다.)
+
+### Have over
+*   **초대하다**: "Since we just moved to Austin, we should have our new neighbors over for dinner to get to know them." (오스틴으로 막 이사 왔으니, 이웃들과 안면을 트기 위해 저녁 식사에 초대하는 게 좋겠어요.)
+*   **손님을 맞이하다**: "I’m planning to have my younger brother over for a few weeks once we are fully settled in our new house." (새집 정리가 완전히 끝나면 남동생을 불러 몇 주 동안 저희 집에 머물게 할 계획입니다.)
+*   **부르다 (전문가 등)**: "I might need to have a technician over to check the home network setup for my multi-agent AI environment." (멀티 에이전트 AI 환경을 구축하기 위해 홈 네트워크 설정을 점검해 줄 기술자를 집으로 불러야 할 것 같습니다.)
+
+### Be over
+*   **끝나다**: "The long relocation process will finally be over once I arrive in the U.S. tomorrow, April 21st." (내일 4월 21일 미국에 입국하고 나면 이 긴 이주 과정도 마침내 끝이 납니다.)
+*   **와 있다 / 들르다**: "I’ll be over at the semiconductor office in Austin later this afternoon for a quick follow-up meeting." (오늘 오후 늦게 후속 회의를 위해 오스틴에 있는 반도체 회사 사무실에 들를 예정입니다.)
+*   **한도를 넘다**: "The data processing time for the new diagnostic tool should not be over ten seconds per dataset to ensure efficiency." (효율성을 보장하기 위해 새로운 진단 도구의 데이터 처리 시간은 데이터 세트당 10초를 넘지 않아야 합니다.)
+
+### Get over
+*   **극복 / 회복하다**: "It took me a while to get over the jet lag after arriving in Austin, but I'm finally back to my normal routine." (오스틴에 도착한 후 시차 적응을 극복하는 데 시간이 좀 걸렸지만, 이제 마침내 정상적인 일상으로 돌아왔습니다.)
+*   **넘어서다 / 해결**: "We need to get over these initial security configuration hurdles before we can fully deploy the AI agents." (AI 에이전트를 완전히 배포하기 전에 초기 보안 설정상의 장애물들을 먼저 해결해야 합니다.)
+*   **잊다 / 납득하다**: "I still can't get over how much more efficient the new Streamlit dashboard is compared to our old manual audit process." (새로운 스트림릿 대시보드가 기존의 수동 감사 프로세스보다 얼마나 더 효율적인지 생각할 때마다 여전히 놀랍기만 합니다.)
+
+### Start over
+*   **다시 시작하다**: "The code for the MCP server had too many errors, so I decided to start over from scratch to ensure a cleaner architecture." (MCP 서버 코드가 오류가 너무 많아서, 더 깔끔한 아키텍처를 위해 처음부터 다시 시작하기로 했습니다.)
+*   **새롭게 시작하다 (생활 등)**: "Moving to Austin is a great opportunity for my family to start over in a new environment and explore different career paths." (오스틴으로의 이주는 우리 가족이 새로운 환경에서 삶을 새롭게 시작하고 색다른 커리어 경로를 탐색할 수 있는 좋은 기회입니다.)
+*   **다시 하다**: "If the data quality audit doesn't meet the compliance standards, we will have to start over with a more rigorous verification process." (데이터 품질 감사가 준수 표준을 충족하지 못한다면, 더 엄격한 검증 절차를 거쳐 처음부터 다시 진행해야 할 것입니다.)
+
+### Look over
+*   **훑어보다 / 검토**: "Could you look over my Python script for the investment dashboard to see if there are any obvious logic errors?" (제가 만든 투자 대시보드 파이썬 스크립트에 논리적 오류가 없는지 가볍게 한번 훑어봐 주시겠어요?)
+*   **살펴보다 (서류)**: "I need to look over the lease agreement for the new house in Austin one last time before I sign it tomorrow." (내일 서명하기 전에 오스틴 새집의 임대 계약서를 마지막으로 한 번 더 살펴봐야 합니다.)
+*   **내려다보다**: "From the top of the hill, you can look over the entire golf course and see the walking paths clearly." (언덕 꼭대기에 올라가면 골프장 전체를 내려다보며 산책로를 명확하게 확인할 수 있습니다.)
+
+### Go over
+*   **상세히 검토하다**: "Before the final audit report is submitted, we should go over every data entry to ensure there are no inconsistencies." (최종 감사 보고서를 제출하기 전에, 불일치하는 부분이 없도록 모든 데이터 항목을 상세히 검토해야 합니다.)
+*   **복습 / 되풀이**: "I need to go over my notes on American corporate culture to prepare for my first team meeting at the new office." (새 사무실에서의 첫 팀 회의를 대비해 미국 기업 문화에 대해 정리해 둔 노트를 다시 한번 복습해야 합니다.)
+*   **건너가다**: "After I finish this coding task, I’ll go over to the HR department to finalize my employee benefits and insurance." (코딩 작업을 마친 후, 직원 복지와 보험 절차를 마무리하러 인사과 쪽으로 가볼 예정입니다.)
+
+### Take over
+*   **인계받다 / 이어받다**: "Since the previous manager left, I will take over the responsibility of overseeing the IT infrastructure security audit." (이전 매니저가 떠나게 되어, 제가 IT 인프라 보안 감사를 총괄하는 책임을 인계받게 되었습니다.)
+*   **인수 / 장악**: "The tech giant decided to take over the promising AI startup to integrate their multi-agent technology into the core platform." (그 거대 기술 기업은 멀티 에이전트 기술을 핵심 플랫폼에 통합하기 위해 유망한 AI 스타트업을 인수하기로 결정했습니다.)
+*   **차지하다 / 대체**: "In the coming years, automated systems are expected to take over many repetitive tasks in the data quality verification process." (향후 몇 년 안에 자동화된 시스템이 데이터 품질 검증 과정의 많은 반복적인 업무들을 대체하게 될 것으로 예상됩니다.)
+
+---
+
+## 7. DOWN 및 기타 계열
+
+### Let down
+*   **실망시키다**: "I've worked hard on this infrastructure migration project because I don't want to let my team down." (팀원들을 실망시키고 싶지 않기에 이번 인프라 마이그레이션 프로젝트에 심혈을 기울여 왔습니다.)
+*   **아래로 내리다**: "The technicians had to let down the heavy server equipment carefully using a specialized lift." (기술자들은 전용 리프트를 사용하여 무거운 서버 장비를 조심스럽게 아래로 내려야 했습니다.)
+*   **기대를 저버리다**: "The latest software update was a bit of a let down as it didn't include the multi-agent features we expected." (최신 소프트웨어 업데이트는 우리가 기대했던 멀티 에이전트 기능이 포함되지 않아 다소 실망스러웠습니다.)
+
+### Break down
+*   **세부 분석 / 분류**: "Could you break down the audit results by department so we can identify the specific data quality issues?" (부서별로 감사 결과를 세부적으로 분석해 주시겠어요? 그래야 구체적인 데이터 품질 문제를 파악할 수 있습니다.)
+*   **고장 나다**: "The legacy system started to break down under the heavy load, so we accelerated the migration to the AWS cloud." (기존 시스템이 과부하로 인해 고장이 나기 시작해서, AWS 클라우드로의 이전을 서둘렀습니다.)
+*   **무너지다 (감정)**: "After months of stressful relocation planning and final interviews, he finally broke down in relief when he got the job offer." (수개월간의 스트레스 쌓인 이주 계획과 최종 면접 끝에, 마침내 합격 통보를 받자 그는 안도감에 울음을 터뜨렸습니다.)
+
+### Turn down
+*   **거절하다**: "It was a difficult decision, but I had to turn down the initial offer to negotiate better terms for the senior auditor role." (어려운 결정이었지만, 시니어 감사 직무에 대해 더 나은 조건을 협상하기 위해 처음의 제안을 거절해야 했습니다.)
+*   **낮추다 (소리 등)**: "Could you turn down the volume of the notification alerts? I need to focus on reviewing these Python scripts." (알림 소리 좀 줄여줄 수 있나요? 파이썬 스크립트 검토에 집중해야 해서요.)
+*   **침체되다 / 하락**: "The market for certain tech stocks began to turn down, so I adjusted my systematic investment portfolio accordingly." (일부 기술주 시장이 하락세로 돌아서기 시작해서, 그에 맞춰 제 시스템 투자 포트폴리오를 조정했습니다.)
+
+### Cut down
+*   **줄이다 / 절감하다**: "We need to cut down on cloud infrastructure costs by optimizing our AWS resource allocation." (AWS 리소스 할당을 최적화해서 클라우드 인프라 비용을 줄여야 합니다.)
+*   **베어 넘기다**: "The city decided to cut down the old trees near the golf course to make room for the new walking path." (시는 새로운 산책로를 만들기 위해 골프장 근처의 오래된 나무들을 베어내기로 결정했습니다.)
+*   **요약 / 분량 줄이기**: "The technical report is too long, so I'll cut it down to the essential points before the final presentation." (기술 보고서가 너무 길어서, 최종 발표 전까지 핵심 요점 위주로 분량을 줄일 예정입니다.)
+
+### Take down
+*   **받아 적다 / 기록**: "During the technical interview, I made sure to take down all the feedback regarding my system architecture design." (기술 면접 동안 시스템 아키텍처 설계에 관한 모든 피드백을 빠짐없이 받아 적었습니다.)
+*   **해체 / 철거**: "After completing the server migration, we need to take down the old racks and clear the data center space." (서버 이전을 완료한 후, 이전 랙들을 해체하고 데이터 센터 공간을 정리해야 합니다.)
+*   **삭제 / 내리기**: "The admin had to take down the sensitive configuration file that was accidentally uploaded to the public GitHub repository." (관리자는 공용 GitHub 저장소에 실수로 올라간 민감한 설정 파일을 삭제해야 했습니다.)
+
+### Stand for
+*   **상징 / 약자**: "In my field of expertise, CISA stands for Certified Information Systems Auditor." (제 전문 분야에서 CISA는 공인 정보 시스템 감사사의 약자입니다.)
+*   **지지 / 옹호**: "Our team stands for strict data integrity and quality assurance in every audit process." (우리 팀은 모든 감사 과정에서 엄격한 데이터 무결성과 품질 보증의 가치를 지지합니다.)
+*   **용납하다 (부정문)**: "As a senior manager, I will not stand for any security breaches caused by negligence in the infrastructure." (시니어 매니저로서, 인프라 관리 소홀로 발생하는 그 어떤 보안 사고도 용납하지 않을 것입니다.)
+
+### Get through
+*   **견뎌내다 / 통과**: "It was a challenging process, but I managed to get through the final rounds of interviews with the semiconductor company." (까다로운 과정이었지만, 반도체 기업과의 마지막 면접 단계들을 마침내 통과했습니다.)
+*   **연락이 닿다**: "I tried calling the school district office several times, but I couldn't get through due to the high volume of inquiries." (교육청에 여러 번 전화를 시도했지만, 문의 전화가 많아서 연결이 되지 않았습니다.)
+*   **처리 / 끝내다**: "I have a lot of technical documentation to review, but I hope to get through all of it before the weekend starts." (검토해야 할 기술 문서가 아주 많지만, 주말이 시작되기 전에 모두 처리하고 싶습니다.)
+
+### Be into
+*   **깊은 관심 / 빠지다**: "Recently, I’ve been really into exploring multi-agent AI systems and how they can automate complex IT workflows." (최근 멀티 에이전트 AI 시스템과 이를 통해 복잡한 IT 업무 흐름을 자동화하는 방법에 깊이 빠져 있습니다.)
+*   **아주 좋아하다 (취미)**: "I’m quite into systematic investing, specifically focusing on long-term growth with semiconductor-related ETFs." (저는 시스템 투자를 아주 좋아하는데, 특히 반도체 관련 ETF를 통한 장기 성장에 집중하고 있습니다.)
+*   **열중하다**: "Many professionals in Austin are heavily into outdoor activities like golf, especially walking rounds with their own push carts." (오스틴의 많은 전문가들은 골프 같은 야외 활동에 열중하며, 특히 본인의 푸시 카트를 이용해 걸어서 라운딩하는 것을 즐깁니다.)
+
+### Run into
+*   **우연히 마주치다**: "I might run into some former colleagues from the telecommunications industry while attending a tech conference in Austin." (오스틴에서 열리는 기술 컨퍼런스에 참석했다가 통신 업계에서 함께 일했던 옛 동료들을 우연히 마주칠지도 모릅니다.)
+*   **맞닥뜨리다 (문제)**: "We ran into some unexpected compatibility issues while setting up the new Model Context Protocol (MCP) server." (새로운 MCP(모델 컨텍스트 프로토콜) 서버를 설정하던 중에 예상치 못한 호환성 문제에 맞닥뜨렸습니다.)
+*   **특정 액수에 달하다**: "The total investment for the new infrastructure project could easily run into millions of dollars if not managed properly." (제대로 관리하지 않으면 새로운 인프라 프로젝트의 총 투자 비용이 쉽게 수백만 달러에 달할 수 있습니다.)
+
+### Deal with
+*   **처리 / 해결하다**: "As a senior auditor, I have to deal with complex data quality issues and ensure all infrastructure risks are mitigated." (시니어 감사로서 저는 복잡한 데이터 품질 문제를 처리하고 모든 인프라 리스크가 완화되도록 해야 합니다.)
+*   **상대하다**: "It requires a lot of patience to deal with various stakeholders when implementing a new multi-agent AI system across the company." (사내에 새로운 멀티 에이전트 AI 시스템을 도입할 때는 다양한 이해관계자들을 상대하는 데 많은 인내심이 필요합니다.)
+*   **다루다 (주제)**: "The upcoming technical seminar will deal with the latest trends in systematic investment and crypto-asset management." (곧 열릴 기술 세미나는 시스템 투자와 암호자산 관리의 최신 트렌드를 다룰 예정입니다.)
+
+### Stick to
+*   **고수 / 지키다**: "When the market is volatile, it is crucial to stick to your systematic investment strategy rather than making emotional decisions." (시장이 불안정할 때는 감정적인 결정을 내리기보다 본인의 시스템 투자 전략을 고수하는 것이 매우 중요합니다.)
+*   **계속하다**: "I decided to stick to using Python and Streamlit for my data diagnostic tools because of their efficiency and flexibility." (효율성과 유연성 때문에 데이터 진단 도구 개발에 파이썬과 스트림릿을 계속 사용하기로 했습니다.)
+*   **벗어나지 않다**: "During the technical interview, I tried to stick to the facts of my 30-year career to provide clear and concise answers." (기술 면접 동안 명확하고 간결한 답변을 하기 위해 30년 경력의 사실 관계에서 벗어나지 않으려 노력했습니다.)
+
+### Get around to
+*   **마침내 시간을 내어 하다**: "I finally got around to updating my professional resume with the latest Senior Auditor role details." (미루고 미루다 마침내 시니어 감사 직무의 최신 경력 사항을 반영하여 이력서를 업데이트했습니다.)
+*   **짬을 내다**: "I've been so busy with the relocation that I haven't got around to checking the local golf courses in Austin yet." (이주 준비로 너무 바빠서 아직 오스틴 지역의 골프장들을 둘러볼 짬을 내지 못했습니다.)
+*   **드디어 손을 대다**: "After finishing the infrastructure audit, I’ll get around to experimenting with the new features of the Model Context Protocol." (인프라 감사를 마친 후, 드디어 모델 컨텍스트 프로토콜(MCP)의 새로운 기능들을 테스트해 볼 생각입니다.)
