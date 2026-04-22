@@ -1,0 +1,19 @@
+인프라:
+  label: "🏗 AI 인프라 & 아키텍처"
+  description: "컴퓨팅 자원·모델 튜닝·데이터 파이프라인"
+
+오케스트레이션:
+  label: "⚙️ AI 오케스트레이션"
+  description: "프롬프트 설계·에이전트·RAG·프로세스 자동화"
+
+거버넌스:
+  label: "🛡 AI 거버넌스"
+  description: "보안·모니터링·Observability·윤리·AI Act 규제"
+
+인터페이스:
+  label: "🤝 AI 인터페이스"
+  description: "CUI·멀티모달·AI 리터러시·피드백 루프"
+
+비즈니스:
+  label: "📊 AI 비즈니스 임팩트"
+  description: "KPI·ROI 분석·BM 혁신·스케일업 전략"

@@ -5,6 +5,10 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
   title: 'Project-U',
   tagline: '미국 생활 적응 가이드',
   favicon: 'img/favicon.ico',
@@ -34,6 +38,19 @@ const config: Config = {
     defaultLocale: 'ko',
     locales: ['ko'],
   },
+
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'ai-tech',
+        path: './docs-ai',
+        routeBasePath: 'ai-tech',
+        sidebarPath: './sidebars-ai.ts',
+        editUrl: 'https://github.com/jeonck/us-start/tree/main/',
+      },
+    ],
+  ],
 
   presets: [
     [
@@ -91,6 +108,19 @@ const config: Config = {
         {to: '/docs/leisure/golf/overview', label: '🏌️ 골프', position: 'left'},
         {to: '/docs/lifestyle/overview', label: '🍎 맛집/생활', position: 'left'},
         {to: '/blog', label: '블로그', position: 'left'},
+        {
+          type: 'dropdown',
+          label: '🤖 AI기술관리',
+          position: 'left',
+          items: [
+            {to: '/ai-tech/intro',                       label: '📋 프레임워크 소개'},
+            {to: '/ai-tech/인프라/overview',              label: '🏗 인프라 & 아키텍처'},
+            {to: '/ai-tech/오케스트레이션/overview',       label: '⚙️ 오케스트레이션'},
+            {to: '/ai-tech/거버넌스/overview',             label: '🛡 거버넌스'},
+            {to: '/ai-tech/인터페이스/overview',           label: '🤝 인터페이스'},
+            {to: '/ai-tech/비즈니스/overview',             label: '📊 비즈니스 임팩트'},
+          ],
+        },
         {
           href: 'https://github.com/jeonck/us-start',
           label: 'GitHub',

@@ -1,0 +1,8 @@
+{
+  "label": "🏗 AI 인프라 & 아키텍처",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "컴퓨팅 자원·모델 튜닝·데이터 파이프라인"
+  }
+}
