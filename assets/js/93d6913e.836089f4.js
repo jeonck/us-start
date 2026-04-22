@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkproject_u_site=self.webpackChunkproject_u_site||[]).push([["1248"],{22613(e){e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"ai-tech"}')}}]);
