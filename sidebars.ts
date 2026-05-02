@@ -81,7 +81,11 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: '💹 자본이득',
       collapsed: false,
-      items: ['capital-gains/overview'],
+      items: [
+        'capital-gains/overview',
+        'capital-gains/mstr',
+        'capital-gains/method',
+      ],
     },
   ],
 };
