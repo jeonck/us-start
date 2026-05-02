@@ -83,8 +83,8 @@ const sidebars: SidebarsConfig = {
       collapsed: false,
       items: [
         'capital-gains/overview',
-        'capital-gains/mstr',
         'capital-gains/method',
+        'capital-gains/mstr',
       ],
     },
   ],
