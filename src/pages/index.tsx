@@ -110,11 +110,11 @@ function HomepageHeader() {
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
-          <Link className="button button--secondary button--lg" to="/docs/english/speaking">
-            영어 가이드 시작 →
-          </Link>
-          <Link className="button button--outline button--secondary button--lg" to="/docs/capital-gains/overview">
+          <Link className="button button--secondary button--lg" to="/docs/capital-gains/overview">
             💹 자본이득 전략
+          </Link>
+          <Link className="button button--outline button--secondary button--lg" to="/docs/english/speaking">
+            영어 가이드 시작 →
           </Link>
         </div>
       </div>
