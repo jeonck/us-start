@@ -106,7 +106,8 @@ const config: Config = {
         {type: 'docSidebar', sidebarId: 'educationSidebar', position: 'left', label: '🎓 교육'},
         {type: 'docSidebar', sidebarId: 'financeSidebar',   position: 'left', label: '💰 금융'},
         {type: 'docSidebar', sidebarId: 'leisureSidebar',   position: 'left', label: '🏌️ 골프'},
-        {type: 'docSidebar', sidebarId: 'lifestyleSidebar', position: 'left', label: '🍎 맛집/생활'},
+        {type: 'docSidebar', sidebarId: 'lifestyleSidebar',    position: 'left', label: '🍎 맛집/생활'},
+        {type: 'docSidebar', sidebarId: 'capitalGainsSidebar', position: 'left', label: '💹 자본이득'},
         {to: '/blog', label: '블로그', position: 'left'},
         {
           type: 'dropdown',

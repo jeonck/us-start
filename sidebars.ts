@@ -75,6 +75,15 @@ const sidebars: SidebarsConfig = {
       items: ['lifestyle/overview'],
     },
   ],
+
+  capitalGainsSidebar: [
+    {
+      type: 'category',
+      label: '💹 자본이득',
+      collapsed: false,
+      items: ['capital-gains/overview'],
+    },
+  ],
 };
 
 export default sidebars;
