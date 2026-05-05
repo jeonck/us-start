@@ -15,6 +15,13 @@ type CategoryItem = {
   pages: string[];
 };
 
+type RelatedSite = {
+  emoji: string;
+  title: string;
+  description: string;
+  href: string;
+};
+
 const categories: CategoryItem[] = [
   {
     emoji: '🗣️',
@@ -81,6 +88,39 @@ const categories: CategoryItem[] = [
   },
 ];
 
+const relatedSites: RelatedSite[] = [
+  {
+    emoji: '🇺🇸',
+    title: 'US Work English',
+    description: '미국 직장에서 자신 있게 소통하기 위한 영어 학습 가이드.',
+    href: 'https://jeonck.github.io/us-work-english/',
+  },
+  {
+    emoji: '🔐',
+    title: '정보보안 지식베이스',
+    description: '정보보안 분야 기술을 체계적으로 정리한 지식 베이스.',
+    href: 'https://jeonck.github.io/info-security/',
+  },
+  {
+    emoji: '🤖',
+    title: 'AI 기술관리 프레임워크',
+    description: 'AI 기술관리를 5개 영역으로 체계화한 실무 프레임워크.',
+    href: 'https://jeonck.github.io/ai-eng/',
+  },
+  {
+    emoji: '🧠',
+    title: '프레임워크적 사고',
+    description: 'IT 전문가를 위한 구조적 IT 지식 체계 및 사고법.',
+    href: 'https://jeonck.github.io/fw-thinking/',
+  },
+  {
+    emoji: '⚙️',
+    title: 'AI시대의 SW공학',
+    description: 'AI가 만든 코드를 설계, 검증, 운영하는 실전 소프트웨어 공학.',
+    href: 'https://jeonck.github.io/ai-sw-engineering/',
+  },
+];
+
 function CategoryCard({emoji, title, description, to, pages}: CategoryItem) {
   return (
     <div className={clsx('col col--4', styles.cardCol)}>
@@ -94,6 +134,21 @@ function CategoryCard({emoji, title, description, to, pages}: CategoryItem) {
               <li key={i}>{page}</li>
             ))}
           </ul>
+        </div>
+      </Link>
+    </div>
+  );
+}
+
+function RelatedSiteCard({emoji, title, description, href}: RelatedSite) {
+  return (
+    <div className={clsx('col col--4', styles.cardCol)}>
+      <Link href={href} className={styles.cardLink} target="_blank" rel="noopener noreferrer">
+        <div className={clsx(styles.card, styles.relatedCard)}>
+          <div className={styles.cardEmoji}>{emoji}</div>
+          <Heading as="h3" className={styles.cardTitle}>{title}</Heading>
+          <p className={styles.cardDescription}>{description}</p>
+          <span className={styles.externalBadge}>외부 사이트 →</span>
         </div>
       </Link>
     </div>
@@ -136,6 +191,16 @@ export default function Home(): ReactNode {
             <div className="row">
               {categories.map((item, idx) => (
                 <CategoryCard key={idx} {...item} />
+              ))}
+            </div>
+          </div>
+        </section>
+        <section className={clsx(styles.categories, styles.relatedSection)}>
+          <div className="container">
+            <Heading as="h2" className={styles.sectionTitle}>🔗 관련 사이트</Heading>
+            <div className="row">
+              {relatedSites.map((item, idx) => (
+                <RelatedSiteCard key={idx} {...item} />
               ))}
             </div>
           </div>

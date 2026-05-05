@@ -81,3 +81,19 @@
 .pageList li::before {
   content: '· ';
 }
+
+.relatedSection {
+  background: var(--ifm-color-emphasis-100);
+}
+
+.relatedCard {
+  border-style: dashed;
+}
+
+.externalBadge {
+  display: inline-block;
+  margin-top: 0.5rem;
+  font-size: 0.8rem;
+  color: var(--ifm-color-primary);
+  font-weight: 500;
+}
