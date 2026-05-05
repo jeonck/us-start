@@ -119,6 +119,12 @@ const relatedSites: RelatedSite[] = [
     description: 'AI가 만든 코드를 설계, 검증, 운영하는 실전 소프트웨어 공학.',
     href: 'https://jeonck.github.io/ai-sw-engineering/',
   },
+  {
+    emoji: '🔍',
+    title: '감리업무 온보딩',
+    description: '정보시스템 감리 절차 중심의 빠른 온보딩 가이드.',
+    href: 'https://jeonck.github.io/it-audit-onboard/',
+  },
 ];
 
 function CategoryCard({emoji, title, description, to, pages}: CategoryItem) {
