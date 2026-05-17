@@ -177,7 +177,7 @@ function HomepageHeader() {
         <p className="hero__subtitle">
           <b>The Knowledge Hub for Growth</b><br />
           미국 정착 실무부터 미래를 설계하는 기술 프로젝트까지,<br />
-          당신의 성장을 위한 모든 지식을 연결합니다.
+          성장을 위한 모든 지식을 연결합니다.
         </p>
         <div className={styles.buttons}>
           <Link className="button button--secondary button--lg" to="#project-hub">
