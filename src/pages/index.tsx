@@ -190,28 +190,48 @@ function HomepageHeader() {
 
 export default function Home(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
+  
+  // Split categories based on the navbar logic
+  const settlingIn = categories.slice(0, 4);
+  const assetsAndLife = categories.slice(4);
+
   return (
     <Layout
       title={siteConfig.title}
-      description="미국 생활 적응 가이드 — 영어, 주거, 행정, 금융, 자본이득, AI 기술관리">
+      description="미국 생활 적응 가이드 — 영어, 주거, 행정, 금융, 자본이득">
       <HomepageHeader />
       <main>
-        <section className={styles.categories}>
-          <div className="container">
-            <Heading as="h2" className={styles.sectionTitle}>전체 가이드</Heading>
-            <div className="row">
-              {categories.map((item, idx) => (
-                <CategoryCard key={idx} {...item} />
-              ))}
-            </div>
-          </div>
-        </section>
+        {/* Project Hub section moved to top */}
         <section className={clsx(styles.categories, styles.relatedSection)}>
           <div className="container">
             <Heading as="h2" className={styles.sectionTitle}>🌿 Project Hub</Heading>
             <div className="row">
               {relatedSites.map((item, idx) => (
                 <RelatedSiteCard key={idx} {...item} />
+              ))}
+            </div>
+          </div>
+        </section>
+
+        {/* Settling In section */}
+        <section className={styles.categories}>
+          <div className="container">
+            <Heading as="h2" className={styles.sectionTitle}>🇺🇸 미국 정착</Heading>
+            <div className="row">
+              {settlingIn.map((item, idx) => (
+                <CategoryCard key={idx} {...item} />
+              ))}
+            </div>
+          </div>
+        </section>
+
+        {/* Assets & Life section */}
+        <section className={styles.categories}>
+          <div className="container">
+            <Heading as="h2" className={styles.sectionTitle}>📈 자산 & 라이프</Heading>
+            <div className="row">
+              {assetsAndLife.map((item, idx) => (
+                <CategoryCard key={idx} {...item} />
               ))}
             </div>
           </div>
