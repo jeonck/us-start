@@ -208,7 +208,7 @@ export default function Home(): ReactNode {
         </section>
         <section className={clsx(styles.categories, styles.relatedSection)}>
           <div className="container">
-            <Heading as="h2" className={styles.sectionTitle}>🔗 관련 사이트</Heading>
+            <Heading as="h2" className={styles.sectionTitle}>🌿 Project Hub</Heading>
             <div className="row">
               {relatedSites.map((item, idx) => (
                 <RelatedSiteCard key={idx} {...item} />

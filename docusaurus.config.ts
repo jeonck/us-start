@@ -100,7 +100,7 @@ const config: Config = {
         {to: '/blog', label: '블로그', position: 'left'},
         {
           type: 'dropdown',
-          label: '🔗 관련 사이트',
+          label: '🌿 Project Hub',
           position: 'left',
           items: [
             {href: 'https://jeonck.github.io/us-work-english/',   label: '🇺🇸 US Work English'},
