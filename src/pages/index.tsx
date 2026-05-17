@@ -172,15 +172,19 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          {siteConfig.title}
+          🌿 Project-U
         </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <p className="hero__subtitle">
+          <b>The Knowledge Hub for Growth</b><br />
+          미국 정착 실무부터 미래를 설계하는 기술 프로젝트까지,<br />
+          당신의 성장을 위한 모든 지식을 연결합니다.
+        </p>
         <div className={styles.buttons}>
-          <Link className="button button--secondary button--lg" to="/docs/capital-gains/overview">
-            💹 자본이득 전략
+          <Link className="button button--secondary button--lg" to="#project-hub">
+            🚀 Explore Project Hub
           </Link>
-          <Link className="button button--outline button--secondary button--lg" to="/docs/english/speaking">
-            영어 가이드 시작 →
+          <Link className="button button--outline button--secondary button--lg" to="#settling-in">
+            🇺🇸 US Life Guide →
           </Link>
         </div>
       </div>
@@ -202,7 +206,7 @@ export default function Home(): ReactNode {
       <HomepageHeader />
       <main>
         {/* Project Hub section moved to top */}
-        <section className={clsx(styles.categories, styles.relatedSection)}>
+        <section id="project-hub" className={clsx(styles.categories, styles.relatedSection)}>
           <div className="container">
             <Heading as="h2" className={styles.sectionTitle}>🌿 Project Hub</Heading>
             <div className="row">
@@ -214,7 +218,7 @@ export default function Home(): ReactNode {
         </section>
 
         {/* Settling In section */}
-        <section className={styles.categories}>
+        <section id="settling-in" className={styles.categories}>
           <div className="container">
             <Heading as="h2" className={styles.sectionTitle}>🇺🇸 미국 정착</Heading>
             <div className="row">
@@ -226,7 +230,7 @@ export default function Home(): ReactNode {
         </section>
 
         {/* Assets & Life section */}
-        <section className={styles.categories}>
+        <section id="assets-life" className={styles.categories}>
           <div className="container">
             <Heading as="h2" className={styles.sectionTitle}>📈 자산 & 라이프</Heading>
             <div className="row">
