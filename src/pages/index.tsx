@@ -96,7 +96,7 @@ const relatedSites: RelatedSite[] = [
   },
   {
     emoji: '🤖',
-    title: 'AI 기술관리 프레임워크',
+    title: 'AI Eng',
     description: 'AI 기술관리를 5개 영역으로 체계화한 실무 프레임워크.',
     href: 'https://jeonck.github.io/ai-eng/',
   },
