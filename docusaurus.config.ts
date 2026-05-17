@@ -101,7 +101,7 @@ const config: Config = {
         {
           type: 'dropdown',
           label: '🔗 관련 사이트',
-          position: 'right',
+          position: 'left',
           items: [
             {href: 'https://jeonck.github.io/us-work-english/',   label: '🇺🇸 US Work English'},
             {href: 'https://jeonck.github.io/info-security/',     label: '🔐 정보보안 지식베이스'},
