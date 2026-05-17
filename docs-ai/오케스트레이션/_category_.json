@@ -1,8 +1,0 @@
-{
-  "label": "⚙️ AI 오케스트레이션",
-  "position": 3,
-  "link": {
-    "type": "generated-index",
-    "description": "프롬프트 설계·에이전트·RAG·프로세스 자동화"
-  }
-}

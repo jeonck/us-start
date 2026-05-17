@@ -79,13 +79,6 @@ const categories: CategoryItem[] = [
     to: '/docs/capital-gains/overview',
     pages: ['자본이득 개요', '일등주식투자법', 'MSTR 전략'],
   },
-  {
-    emoji: '🤖',
-    title: 'AI 기술관리',
-    description: 'AI 인프라·오케스트레이션·거버넌스·인터페이스·비즈니스 임팩트 프레임워크.',
-    to: '/ai-tech/intro',
-    pages: ['프레임워크 소개', '인프라', '오케스트레이션', '거버넌스', '인터페이스', '비즈니스'],
-  },
 ];
 
 const relatedSites: RelatedSite[] = [

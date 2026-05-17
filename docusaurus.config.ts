@@ -39,18 +39,7 @@ const config: Config = {
     locales: ['ko'],
   },
 
-  plugins: [
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        id: 'ai-tech',
-        path: './docs-ai',
-        routeBasePath: 'ai-tech',
-        sidebarPath: './sidebars-ai.ts',
-        editUrl: 'https://github.com/jeonck/us-start/tree/main/',
-      },
-    ],
-  ],
+  plugins: [],
 
   presets: [
     [
@@ -109,19 +98,6 @@ const config: Config = {
         {type: 'docSidebar', sidebarId: 'lifestyleSidebar',    position: 'left', label: '🍎 맛집/생활'},
         {type: 'docSidebar', sidebarId: 'capitalGainsSidebar', position: 'left', label: '💹 자본이득'},
         {to: '/blog', label: '블로그', position: 'left'},
-        {
-          type: 'dropdown',
-          label: '🤖 AI기술관리',
-          position: 'left',
-          items: [
-            {to: '/ai-tech/intro',                       label: '📋 프레임워크 소개'},
-            {to: '/ai-tech/인프라/overview',              label: '🏗 인프라 & 아키텍처'},
-            {to: '/ai-tech/오케스트레이션/overview',       label: '⚙️ 오케스트레이션'},
-            {to: '/ai-tech/거버넌스/overview',             label: '🛡 거버넌스'},
-            {to: '/ai-tech/인터페이스/overview',           label: '🤝 인터페이스'},
-            {to: '/ai-tech/비즈니스/overview',             label: '📊 비즈니스 임팩트'},
-          ],
-        },
         {
           type: 'dropdown',
           label: '🔗 관련 사이트',
