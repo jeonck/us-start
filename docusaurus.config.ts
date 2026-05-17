@@ -89,14 +89,28 @@ const config: Config = {
         src: 'img/logo.svg',
       },
       items: [
-        {type: 'docSidebar', sidebarId: 'englishSidebar',   position: 'left', label: '🗣️ 영어'},
-        {type: 'docSidebar', sidebarId: 'housingSidebar',   position: 'left', label: '🏠 주거'},
-        {type: 'docSidebar', sidebarId: 'adminSidebar',     position: 'left', label: '📋 행정'},
-        {type: 'docSidebar', sidebarId: 'educationSidebar', position: 'left', label: '🎓 교육'},
-        {type: 'docSidebar', sidebarId: 'financeSidebar',   position: 'left', label: '💰 금융'},
-        {type: 'docSidebar', sidebarId: 'leisureSidebar',   position: 'left', label: '🏌️ 골프'},
-        {type: 'docSidebar', sidebarId: 'lifestyleSidebar',    position: 'left', label: '🍎 맛집/생활'},
-        {type: 'docSidebar', sidebarId: 'capitalGainsSidebar', position: 'left', label: '💹 자본이득'},
+        {
+          type: 'dropdown',
+          label: '🇺🇸 미국 정착',
+          position: 'left',
+          items: [
+            {type: 'docSidebar', sidebarId: 'englishSidebar',   label: '🗣️ 영어'},
+            {type: 'docSidebar', sidebarId: 'housingSidebar',   label: '🏠 주거'},
+            {type: 'docSidebar', sidebarId: 'adminSidebar',     label: '📋 행정'},
+            {type: 'docSidebar', sidebarId: 'educationSidebar', label: '🎓 교육'},
+          ],
+        },
+        {
+          type: 'dropdown',
+          label: '📈 자산 & 라이프',
+          position: 'left',
+          items: [
+            {type: 'docSidebar', sidebarId: 'financeSidebar',      label: '💰 금융'},
+            {type: 'docSidebar', sidebarId: 'capitalGainsSidebar',  label: '💹 자본이득'},
+            {type: 'docSidebar', sidebarId: 'leisureSidebar',      label: '🏌️ 골프'},
+            {type: 'docSidebar', sidebarId: 'lifestyleSidebar',     label: '🍎 맛집/생활'},
+          ],
+        },
         {to: '/blog', label: '블로그', position: 'left'},
         {
           type: 'dropdown',
