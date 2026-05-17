@@ -90,14 +90,14 @@ const categories: CategoryItem[] = [
 ];
 
 const relatedSites: RelatedSite[] = [
-  {emoji: '🇺🇸', title: 'US Work English', description: '미국 직장에서 자신 있게 소통하기 위한 영어 학습 가이드.', href: 'https://jeonck.github.io/us-work-english/'},
-  {emoji: '🔐', title: '정보보안 지식베이스', description: '정보보안 분야 기술을 체계적으로 정리한 지식 베이스.', href: 'https://jeonck.github.io/info-security/'},
   {emoji: '🤖', title: 'AI Eng', description: 'AI 기술관리를 5개 영역으로 체계화한 실무 프레임워크.', href: 'https://jeonck.github.io/ai-eng/'},
-  {emoji: '🧠', title: '프레임워크적 사고', description: 'IT 전문가를 위한 구조적 IT 지식 체계 및 사고법.', href: 'https://jeonck.github.io/fw-thinking/'},
   {emoji: '⚙️', title: 'AI시대의 SW공학', description: 'AI가 만든 코드를 설계, 검증, 운영하는 실전 소프트웨어 공학.', href: 'https://jeonck.github.io/ai-sw-engineering/'},
+  {emoji: '🔐', title: '정보보안 지식베이스', description: '정보보안 분야 기술을 체계적으로 정리한 지식 베이스.', href: 'https://jeonck.github.io/info-security/'},
+  {emoji: '🧠', title: '프레임워크적 사고', description: 'IT 전문가를 위한 구조적 IT 지식 체계 및 사고법.', href: 'https://jeonck.github.io/fw-thinking/'},
   {emoji: '🔍', title: '감리업무 온보딩', description: '정보시스템 감리 절차 중심의 빠른 온보딩 가이드.', href: 'https://jeonck.github.io/it-audit-onboard/'},
   {emoji: '🎓', title: 'CISA', description: '국제정보시스템감사사 자격 취득을 위한 핵심 지식베이스.', href: 'https://jeonck.github.io/cisa/'},
   {emoji: '🛰️', title: 'CCNP-CCIE', description: '네트워크 전문가 자격 취득과 실무를 위한 기술 정리.', href: 'https://jeonck.github.io/ccnp-ccie/'},
+  {emoji: '🇺🇸', title: 'US Work English', description: '미국 직장에서 자신 있게 소통하기 위한 영어 학습 가이드.', href: 'https://jeonck.github.io/us-work-english/'},
 ];
 
 const stats = [
