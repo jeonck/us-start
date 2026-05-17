@@ -125,6 +125,18 @@ const relatedSites: RelatedSite[] = [
     description: '정보시스템 감리 절차 중심의 빠른 온보딩 가이드.',
     href: 'https://jeonck.github.io/it-audit-onboard/',
   },
+  {
+    emoji: '🎓',
+    title: 'CISA',
+    description: '국제정보시스템감사사 자격 취득을 위한 핵심 지식베이스.',
+    href: 'https://jeonck.github.io/cisa/',
+  },
+  {
+    emoji: '🛰️',
+    title: 'CCNP-CCIE',
+    description: '네트워크 전문가 자격 취득과 실무를 위한 기술 정리.',
+    href: 'https://jeonck.github.io/ccnp-ccie/',
+  },
 ];
 
 function CategoryCard({emoji, title, description, to, pages}: CategoryItem) {

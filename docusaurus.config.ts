@@ -133,6 +133,8 @@ const config: Config = {
             {href: 'https://jeonck.github.io/fw-thinking/',       label: '🧠 프레임워크적 사고'},
             {href: 'https://jeonck.github.io/ai-sw-engineering/', label: '⚙️ AI시대의 SW공학'},
             {href: 'https://jeonck.github.io/it-audit-onboard/', label: '🔍 감리업무 온보딩'},
+            {href: 'https://jeonck.github.io/cisa/', label: '🎓 CISA'},
+            {href: 'https://jeonck.github.io/ccnp-ccie/', label: '🛰️ CCNP-CCIE'},
           ],
         },
         {
