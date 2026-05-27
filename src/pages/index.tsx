@@ -98,11 +98,12 @@ const relatedSites: RelatedSite[] = [
   {emoji: '🎓', title: 'CISA', description: '국제정보시스템감사사 자격 취득을 위한 핵심 지식베이스.', href: 'https://jeonck.github.io/cisa/'},
   {emoji: '🛰️', title: 'CCNP-CCIE', description: '네트워크 전문가 자격 취득과 실무를 위한 기술 정리.', href: 'https://jeonck.github.io/ccnp-ccie/'},
   {emoji: '🇺🇸', title: 'US Work English', description: '미국 직장에서 자신 있게 소통하기 위한 영어 학습 가이드.', href: 'https://jeonck.github.io/us-work-english/'},
+  {emoji: '🖥️', title: '정보시스템 기술사', description: '정보시스템 기술사 시험 대비를 위한 체계적인 지식베이스.', href: 'https://jeonck.github.io/itpe-KM/'},
 ];
 
 const stats = [
   {label: '콘텐츠 카테고리', value: '8'},
-  {label: '연계 프로젝트', value: '8'},
+  {label: '연계 프로젝트', value: '9'},
   {label: '미국 정착 가이드', value: '4'},
   {label: '자산 & 라이프', value: '4'},
 ];
