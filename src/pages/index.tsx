@@ -104,7 +104,7 @@ const relatedSites: RelatedSite[] = [
 
 const stats = [
   {label: '콘텐츠 카테고리', value: '8'},
-  {label: '연계 프로젝트', value: '9'},
+  {label: '연계 프로젝트', value: '10'},
   {label: '미국 정착 가이드', value: '4'},
   {label: '자산 & 라이프', value: '4'},
 ];
