@@ -99,6 +99,7 @@ const relatedSites: RelatedSite[] = [
   {emoji: '🛰️', title: 'CCNP-CCIE', description: '네트워크 전문가 자격 취득과 실무를 위한 기술 정리.', href: 'https://jeonck.github.io/ccnp-ccie/'},
   {emoji: '🇺🇸', title: 'US Work English', description: '미국 직장에서 자신 있게 소통하기 위한 영어 학습 가이드.', href: 'https://jeonck.github.io/us-work-english/'},
   {emoji: '🖥️', title: '정보시스템 기술사', description: '정보시스템 기술사 시험 대비를 위한 체계적인 지식베이스.', href: 'https://jeonck.github.io/itpe-KM/'},
+  {emoji: '💻', title: '코딩 저널', description: '코딩을 익히기 위해 예시와 함께 배워나가는 개발 학습 블로그.', href: 'https://jeonck.github.io/coding-journal/'},
 ];
 
 const stats = [

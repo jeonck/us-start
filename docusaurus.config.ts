@@ -103,6 +103,7 @@ const config: Config = {
             {href: 'https://jeonck.github.io/ccnp-ccie/', label: '🛰️ CCNP-CCIE'},
             {href: 'https://jeonck.github.io/us-work-english/',   label: '🇺🇸 US Work English'},
             {href: 'https://jeonck.github.io/itpe-KM/',           label: '🖥️ 정보시스템 기술사'},
+            {href: 'https://jeonck.github.io/coding-journal/',     label: '💻 코딩 저널'},
           ],
         },
         {
