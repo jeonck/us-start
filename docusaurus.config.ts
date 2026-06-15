@@ -96,6 +96,7 @@ const config: Config = {
           items: [
             {href: 'https://jeonck.github.io/ai-eng/',            label: '🤖 AI Eng'},
             {href: 'https://jeonck.github.io/ai-sw-engineering/', label: '⚙️ AI시대의 SW공학'},
+            {href: 'https://jeonck.github.io/ai-security/',       label: '🛡️ AI 보안'},
             {href: 'https://jeonck.github.io/info-security/',     label: '🔐 정보보안 지식베이스'},
             {href: 'https://jeonck.github.io/fw-thinking/',       label: '🧠 프레임워크적 사고'},
             {href: 'https://jeonck.github.io/it-audit-onboard/', label: '🔍 감리업무 온보딩'},

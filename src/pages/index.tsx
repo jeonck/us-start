@@ -92,6 +92,7 @@ const categories: CategoryItem[] = [
 const relatedSites: RelatedSite[] = [
   {emoji: '🤖', title: 'AI Eng', description: 'AI 기술관리를 5개 영역으로 체계화한 실무 프레임워크.', href: 'https://jeonck.github.io/ai-eng/'},
   {emoji: '⚙️', title: 'AI시대의 SW공학', description: 'AI가 만든 코드를 설계, 검증, 운영하는 실전 소프트웨어 공학.', href: 'https://jeonck.github.io/ai-sw-engineering/'},
+  {emoji: '🛡️', title: 'AI 보안', description: 'AI 시스템과 서비스를 위협으로부터 지키는 보안 지식과 실무.', href: 'https://jeonck.github.io/ai-security/'},
   {emoji: '🔐', title: '정보보안 지식베이스', description: '정보보안 분야 기술을 체계적으로 정리한 지식 베이스.', href: 'https://jeonck.github.io/info-security/'},
   {emoji: '🧠', title: '프레임워크적 사고', description: 'IT 전문가를 위한 구조적 IT 지식 체계 및 사고법.', href: 'https://jeonck.github.io/fw-thinking/'},
   {emoji: '🔍', title: '감리업무 온보딩', description: '정보시스템 감리 절차 중심의 빠른 온보딩 가이드.', href: 'https://jeonck.github.io/it-audit-onboard/'},
@@ -104,7 +105,7 @@ const relatedSites: RelatedSite[] = [
 
 const stats = [
   {label: '콘텐츠 카테고리', value: '8'},
-  {label: '연계 프로젝트', value: '10'},
+  {label: '연계 프로젝트', value: '11'},
   {label: '미국 정착 가이드', value: '4'},
   {label: '자산 & 라이프', value: '4'},
 ];
