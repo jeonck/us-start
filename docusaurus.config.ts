@@ -106,6 +106,8 @@ const config: Config = {
             {href: 'https://jeonck.github.io/us-work-english/',   label: '🇺🇸 US Work English'},
             {href: 'https://jeonck.github.io/itpe-KM/',           label: '🖥️ 정보시스템 기술사'},
             {href: 'https://jeonck.github.io/coding-journal/',     label: '💻 코딩 저널'},
+            {href: 'https://jeonck.github.io/heard-and-kept/',     label: '👂 Heard & Kept'},
+            {href: 'https://jeonck.github.io/k8s-km/',             label: '☸️ Kubernetes 실무 가이드'},
           ],
         },
         {
