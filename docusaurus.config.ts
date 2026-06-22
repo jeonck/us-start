@@ -109,6 +109,7 @@ const config: Config = {
             {href: 'https://jeonck.github.io/heard-and-kept/',     label: '👂 Heard & Kept'},
             {href: 'https://jeonck.github.io/k8s-km/',             label: '☸️ Kubernetes 실무 가이드'},
             {href: 'https://jeonck.github.io/aws-sol-archi-prof/',  label: '☁️ AWS 솔루션 아키텍트'},
+            {href: 'https://jeonck.github.io/devops-professional/', label: '🚀 DevOps Professional'},
           ],
         },
         {

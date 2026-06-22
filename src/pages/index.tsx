@@ -105,11 +105,12 @@ const relatedSites: RelatedSite[] = [
   {emoji: '👂', title: 'Heard & Kept', description: '들은 표현을 줍고, 다시 써보고, 기록으로 남기는 생존형 영어 습득 로드맵.', href: 'https://jeonck.github.io/heard-and-kept/'},
   {emoji: '☸️', title: 'Kubernetes 실무 가이드', description: '쿠버네티스를 MECE로 정리한 4계층 12카테고리 실무 지식베이스.', href: 'https://jeonck.github.io/k8s-km/'},
   {emoji: '☁️', title: 'AWS 솔루션 아키텍트', description: '3~6개월 실무형 Hands-on으로 완성하는 AWS Solutions Architect Professional.', href: 'https://jeonck.github.io/aws-sol-archi-prof/'},
+  {emoji: '🚀', title: 'DevOps Professional', description: '13개 역량과 4단계 성숙도로 증명하는 DevOps 전문가 실무 플레이북.', href: 'https://jeonck.github.io/devops-professional/'},
 ];
 
 const stats = [
   {label: '콘텐츠 카테고리', value: '8'},
-  {label: '연계 프로젝트', value: '15'},
+  {label: '연계 프로젝트', value: '16'},
   {label: '미국 정착 가이드', value: '4'},
   {label: '자산 & 라이프', value: '4'},
 ];
