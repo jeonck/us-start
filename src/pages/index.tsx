@@ -22,6 +22,12 @@ type RelatedSite = {
   href: string;
 };
 
+type HubGroup = {
+  badge: string;
+  title: string;
+  sites: RelatedSite[];
+};
+
 const categories: CategoryItem[] = [
   {
     emoji: '🗣️',
@@ -89,27 +95,51 @@ const categories: CategoryItem[] = [
   },
 ];
 
-const relatedSites: RelatedSite[] = [
-  {emoji: '🤖', title: 'AI Eng', description: 'AI 기술관리를 5개 영역으로 체계화한 실무 프레임워크.', href: 'https://jeonck.github.io/ai-eng/'},
-  {emoji: '⚙️', title: 'AI시대의 SW공학', description: 'AI가 만든 코드를 설계, 검증, 운영하는 실전 소프트웨어 공학.', href: 'https://jeonck.github.io/ai-sw-engineering/'},
-  {emoji: '🛡️', title: 'AI 보안', description: 'AI 시스템과 서비스를 위협으로부터 지키는 보안 지식과 실무.', href: 'https://jeonck.github.io/ai-security/'},
-  {emoji: '🕹️', title: 'AI agent 실무', description: 'AI 에이전트를 설계하고 운영하는 실전 노하우 모음.', href: 'https://jeonck.github.io/ai-agent/'},
-  {emoji: '🔐', title: '정보보안 지식베이스', description: '정보보안 분야 기술을 체계적으로 정리한 지식 베이스.', href: 'https://jeonck.github.io/info-security/'},
-  {emoji: '🧠', title: '프레임워크적 사고', description: 'IT 전문가를 위한 구조적 IT 지식 체계 및 사고법.', href: 'https://jeonck.github.io/fw-thinking/'},
-  {emoji: '🔍', title: '감리업무 온보딩', description: '정보시스템 감리 절차 중심의 빠른 온보딩 가이드.', href: 'https://jeonck.github.io/it-audit-onboard/'},
-  {emoji: '🎓', title: 'CISA', description: '국제정보시스템감사사 자격 취득을 위한 핵심 지식베이스.', href: 'https://jeonck.github.io/cisa/'},
-  {emoji: '🛰️', title: 'CCNP-CCIE', description: '네트워크 전문가 자격 취득과 실무를 위한 기술 정리.', href: 'https://jeonck.github.io/ccnp-ccie/'},
-  {emoji: '🖥️', title: '정보시스템 기술사', description: '정보시스템 기술사 시험 대비를 위한 체계적인 지식베이스.', href: 'https://jeonck.github.io/itpe-KM/'},
-  {emoji: '💻', title: '코딩 저널', description: '코딩을 익히기 위해 예시와 함께 배워나가는 개발 학습 블로그.', href: 'https://jeonck.github.io/coding-journal/'},
-  {emoji: '☸️', title: 'Kubernetes 실무 가이드', description: '쿠버네티스를 MECE로 정리한 4계층 12카테고리 실무 지식베이스.', href: 'https://jeonck.github.io/k8s-km/'},
-  {emoji: '☁️', title: 'AWS 솔루션 아키텍트', description: '3~6개월 실무형 Hands-on으로 완성하는 AWS Solutions Architect Professional.', href: 'https://jeonck.github.io/aws-sol-archi-prof/'},
-  {emoji: '🚀', title: 'DevOps Professional', description: '13개 역량과 4단계 성숙도로 증명하는 DevOps 전문가 실무 플레이북.', href: 'https://jeonck.github.io/devops-professional/'},
-  {emoji: '📊', title: 'ISP & IT 컨설팅', description: '정보전략계획(ISP)과 EA·클라우드 전략을 다루는 IT 컨설팅 실무 가이드.', href: 'https://jeonck.github.io/isp-it-consulting/'},
+const hubGroups: HubGroup[] = [
+  {
+    badge: 'Platform & Infrastructure Strategy',
+    title: '플랫폼 · 인프라 전략',
+    sites: [
+      {emoji: '🚀', title: 'DevOps & SRE Strategy', description: '13개 역량 지표와 성숙도 모델을 기반으로 한 클라우드 네이티브 플랫폼 운영 표준.', href: 'https://jeonck.github.io/devops-professional/'},
+      {emoji: '☸️', title: 'Kubernetes Control Plane Architecture', description: 'MECE 원칙에 기반한 4계층·12카테고리 시스템 아키텍처 및 운영 프레임워크.', href: 'https://jeonck.github.io/k8s-km/'},
+      {emoji: '☁️', title: 'AWS Cloud Solutions Architecture', description: '대규모 엔터프라이즈 환경을 위한 고가용성 아키텍처 설계 및 프로페셔널 구현 가이드.', href: 'https://jeonck.github.io/aws-sol-archi-prof/'},
+    ],
+  },
+  {
+    badge: 'Governance, Audit & Security',
+    title: '거버넌스 · 감사 · 보안',
+    sites: [
+      {emoji: '🛡️', title: 'AI Governance & Security', description: 'AI 시스템의 신뢰성 확보를 위한 보안 설계 프레임워크 및 위협 대응 전략.', href: 'https://jeonck.github.io/ai-security/'},
+      {emoji: '🔐', title: 'Information Security Knowledge Base', description: '전사적 보안 거버넌스 수립을 위한 핵심 기술 지식 체계 및 리스크 관리.', href: 'https://jeonck.github.io/info-security/'},
+      {emoji: '🔍', title: 'IT Audit & Governance', description: '정보시스템 감리 절차의 표준화 및 규제 준수(Compliance)를 위한 전략 가이드.', href: 'https://jeonck.github.io/it-audit-onboard/'},
+      {emoji: '🎓', title: 'CISA Certification & Professional Audit', description: '국제 표준 기반의 IT 감사 수행 역량 및 정보시스템 통제 솔루션.', href: 'https://jeonck.github.io/cisa/'},
+    ],
+  },
+  {
+    badge: 'Software Engineering & AI Architecture',
+    title: '소프트웨어 공학 · AI 아키텍처',
+    sites: [
+      {emoji: '🤖', title: 'AI Engineering Framework', description: 'AI 기술 도입을 위한 5단계 실무 통합 관리 프레임워크.', href: 'https://jeonck.github.io/ai-eng/'},
+      {emoji: '⚙️', title: 'AI-Driven Software Engineering', description: 'AI 생성 코드의 설계·검증 및 시스템 운영 자동화를 위한 신뢰성 엔지니어링.', href: 'https://jeonck.github.io/ai-sw-engineering/'},
+      {emoji: '🕹️', title: 'AI Agent System Design', description: '복잡한 비즈니스 로직을 자동화하는 자율형 AI 에이전트 설계 및 운영 노하우.', href: 'https://jeonck.github.io/ai-agent/'},
+      {emoji: '🧠', title: 'Structural Thinking & IT Frameworks', description: 'IT 전문가를 위한 복잡성 관리 및 구조적 IT 전략 수립 사고법.', href: 'https://jeonck.github.io/fw-thinking/'},
+    ],
+  },
+  {
+    badge: 'Domain Expertise & Certification',
+    title: '전문 기술 · 자격',
+    sites: [
+      {emoji: '🛰️', title: 'Enterprise Network Engineering (CCNP/CCIE)', description: '글로벌 표준 기반의 네트워크 인프라 설계 및 트러블슈팅 전문가 역량.', href: 'https://jeonck.github.io/ccnp-ccie/'},
+      {emoji: '🖥️', title: 'Professional Engineer (PE) Knowledge Base', description: '대한민국 정보시스템 기술사 자격 기반의 시스템 설계 및 기술 의사결정 가이드.', href: 'https://jeonck.github.io/itpe-KM/'},
+      {emoji: '📊', title: 'Enterprise Architecture (ISP/IT Consulting)', description: '전략적 IT 로드맵 수립 및 엔터프라이즈 아키텍처(EA) 전환 컨설팅 가이드.', href: 'https://jeonck.github.io/isp-it-consulting/'},
+      {emoji: '💻', title: 'Platform Engineering Coding Journal', description: '플랫폼 안정성 및 효율성 증대를 위한 실전 엔지니어링 기록.', href: 'https://jeonck.github.io/coding-journal/'},
+    ],
+  },
 ];
 
 const stats = [
-  {label: '콘텐츠 카테고리', value: '8'},
-  {label: '연계 프로젝트', value: '15'},
+  {label: '기술 포트폴리오', value: '15'},
+  {label: '전문 도메인', value: '4'},
   {label: '미국 정착 가이드', value: '4'},
   {label: '자산 & 라이프', value: '4'},
 ];
@@ -205,15 +235,26 @@ export default function Home(): ReactNode {
         <section id="project-hub" className={styles.section}>
           <div className="container">
             <div className={styles.sectionHeader}>
-              <span className={styles.sectionBadge}>Knowledge Network</span>
+              <span className={styles.sectionBadge}>Engineering Excellence & Strategy</span>
               <Heading as="h2" className={styles.sectionTitle}>🌿 Project Hub</Heading>
-              <p className={styles.sectionSubtitle}>성장을 위한 연계 지식 프로젝트</p>
+              <p className={styles.sectionSubtitle}>상위 직무(Director/Architect) 공략을 위한 통합 기술 포트폴리오</p>
             </div>
-            <div className={styles.cardGrid}>
-              {relatedSites.map((item, idx) => (
-                <HubCard key={idx} {...item} />
-              ))}
-            </div>
+            {hubGroups.map((group, gIdx) => (
+              <div key={gIdx} className={styles.hubGroup}>
+                <div className={styles.hubGroupHeader}>
+                  <span className={styles.hubGroupIndex}>{String(gIdx + 1).padStart(2, '0')}</span>
+                  <div>
+                    <h3 className={styles.hubGroupTitle}>{group.title}</h3>
+                    <span className={styles.hubGroupBadge}>{group.badge}</span>
+                  </div>
+                </div>
+                <div className={styles.cardGrid}>
+                  {group.sites.map((item, idx) => (
+                    <HubCard key={idx} {...item} />
+                  ))}
+                </div>
+              </div>
+            ))}
           </div>
         </section>
 
