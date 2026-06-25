@@ -204,8 +204,8 @@
 .hubGroupIndex {
   font-size: 1.35rem;
   font-weight: 800;
-  color: var(--ifm-color-primary);
-  background: var(--ifm-color-primary-lightest);
+  color: #ffffff;
+  background: var(--ifm-color-primary);
   border-radius: 10px;
   width: 2.6rem;
   height: 2.6rem;
