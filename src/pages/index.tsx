@@ -102,7 +102,9 @@ const hubGroups: HubGroup[] = [
     sites: [
       {emoji: '🚀', title: 'DevOps & SRE Strategy', description: '13개 역량 지표와 성숙도 모델을 기반으로 한 클라우드 네이티브 플랫폼 운영 표준.', href: 'https://jeonck.github.io/devops-professional/'},
       {emoji: '☸️', title: 'Kubernetes Control Plane Architecture', description: 'MECE 원칙에 기반한 4계층·12카테고리 시스템 아키텍처 및 운영 프레임워크.', href: 'https://jeonck.github.io/k8s-km/'},
+      {emoji: '⚓', title: 'Kubernetes Advanced Engineering', description: 'PKI 인증서·Operator·Observability까지 다루는 엔터프라이즈 쿠버네티스 심화 운영 엔지니어링.', href: 'https://jeonck.github.io/k8s-adv/'},
       {emoji: '☁️', title: 'AWS Cloud Solutions Architecture', description: '대규모 엔터프라이즈 환경을 위한 고가용성 아키텍처 설계 및 프로페셔널 구현 가이드.', href: 'https://jeonck.github.io/aws-sol-archi-prof/'},
+      {emoji: '🏗️', title: 'Terraform Infrastructure as Code', description: '클릭 운영에서 코드 운영으로 — IaC 기반 인프라 자동화 및 정책·컴플라이언스 표준화.', href: 'https://jeonck.github.io/terraform-onboard/'},
     ],
   },
   {
@@ -132,13 +134,14 @@ const hubGroups: HubGroup[] = [
       {emoji: '📊', title: 'Enterprise Architecture (ISP/IT Consulting)', description: '전략적 IT 로드맵 수립 및 엔터프라이즈 아키텍처(EA) 전환 컨설팅 가이드.', href: 'https://jeonck.github.io/isp-it-consulting/'},
       {emoji: '🖥️', title: 'Professional Engineer (PE) Knowledge Base', description: '대한민국 정보시스템 기술사 자격 기반의 시스템 설계 및 기술 의사결정 가이드.', href: 'https://jeonck.github.io/itpe-KM/'},
       {emoji: '🛰️', title: 'Enterprise Network Engineering (CCNP/CCIE)', description: '글로벌 표준 기반의 네트워크 인프라 설계 및 트러블슈팅 전문가 역량.', href: 'https://jeonck.github.io/ccnp-ccie/'},
+      {emoji: '📈', title: 'Performance & Load Engineering', description: 'JMeter·Scouter 기반의 대규모 부하 테스트 및 시스템 성능 병목 분석 엔지니어링.', href: 'https://jeonck.github.io/jmeter-onboard/'},
       {emoji: '💻', title: 'Platform Engineering Coding Journal', description: '플랫폼 안정성 및 효율성 증대를 위한 실전 엔지니어링 기록.', href: 'https://jeonck.github.io/coding-journal/'},
     ],
   },
 ];
 
 const stats = [
-  {label: '기술 포트폴리오', value: '15'},
+  {label: '기술 포트폴리오', value: '18'},
   {label: '전문 도메인', value: '4'},
   {label: '미국 정착 가이드', value: '4'},
   {label: '자산 & 라이프', value: '4'},
