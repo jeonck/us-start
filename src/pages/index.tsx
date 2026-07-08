@@ -105,6 +105,11 @@ const hubGroups: HubGroup[] = [
       {emoji: '⚓', title: 'Kubernetes Advanced Engineering', description: 'PKI 인증서·Operator·Observability까지 다루는 엔터프라이즈 쿠버네티스 심화 운영 엔지니어링.', href: 'https://jeonck.github.io/k8s-adv/'},
       {emoji: '☁️', title: 'AWS Cloud Solutions Architecture', description: '대규모 엔터프라이즈 환경을 위한 고가용성 아키텍처 설계 및 프로페셔널 구현 가이드.', href: 'https://jeonck.github.io/aws-sol-archi-prof/'},
       {emoji: '🏗️', title: 'Terraform Infrastructure as Code', description: '클릭 운영에서 코드 운영으로 — IaC 기반 인프라 자동화 및 정책·컴플라이언스 표준화.', href: 'https://jeonck.github.io/terraform-onboard/'},
+      {emoji: '🧪', title: 'DevOps & SRE Labs', description: '실전 시나리오 기반 데브옵스·SRE 실습 환경 및 트러블슈팅 랩.', href: 'https://jeonck.github.io/devops-sre-labs/'},
+      {emoji: '☁️', title: 'AWS Solutions Lab', description: 'AWS 핵심 서비스 아키텍처를 직접 구축해보는 실습형 솔루션 랩.', href: 'https://jeonck.github.io/aws-sol-lab/'},
+      {emoji: '🔷', title: 'Azure Solutions Lab', description: 'Azure 클라우드 인프라 설계 및 구성 실습 랩.', href: 'https://jeonck.github.io/azure-sol-lab/'},
+      {emoji: '🐘', title: 'Ansible Lab', description: '구성 관리·자동화를 위한 Ansible 실전 플레이북 실습 랩.', href: 'https://jeonck.github.io/ansible-lab/'},
+      {emoji: '🔁', title: 'GitHub Actions CI/CD Lab', description: 'GitHub Actions 기반 CI/CD 파이프라인 설계 및 배포 자동화 실습 랩.', href: 'https://jeonck.github.io/github-actions-cicd-lab/'},
     ],
   },
   {
@@ -136,17 +141,6 @@ const hubGroups: HubGroup[] = [
       {emoji: '🛰️', title: 'Enterprise Network Engineering (CCNP/CCIE)', description: '글로벌 표준 기반의 네트워크 인프라 설계 및 트러블슈팅 전문가 역량.', href: 'https://jeonck.github.io/ccnp-ccie/'},
       {emoji: '📈', title: 'Performance & Load Engineering', description: 'JMeter·Scouter 기반의 대규모 부하 테스트 및 시스템 성능 병목 분석 엔지니어링.', href: 'https://jeonck.github.io/jmeter-onboard/'},
       {emoji: '💻', title: 'Platform Engineering Coding Journal', description: '플랫폼 안정성 및 효율성 증대를 위한 실전 엔지니어링 기록.', href: 'https://jeonck.github.io/coding-journal/'},
-    ],
-  },
-  {
-    badge: 'Hands-on Labs & Practice',
-    title: '실습 랩',
-    sites: [
-      {emoji: '🧪', title: 'DevOps & SRE Labs', description: '실전 시나리오 기반 데브옵스·SRE 실습 환경 및 트러블슈팅 랩.', href: 'https://jeonck.github.io/devops-sre-labs/'},
-      {emoji: '☁️', title: 'AWS Solutions Lab', description: 'AWS 핵심 서비스 아키텍처를 직접 구축해보는 실습형 솔루션 랩.', href: 'https://jeonck.github.io/aws-sol-lab/'},
-      {emoji: '🔷', title: 'Azure Solutions Lab', description: 'Azure 클라우드 인프라 설계 및 구성 실습 랩.', href: 'https://jeonck.github.io/azure-sol-lab/'},
-      {emoji: '🐘', title: 'Ansible Lab', description: '구성 관리·자동화를 위한 Ansible 실전 플레이북 실습 랩.', href: 'https://jeonck.github.io/ansible-lab/'},
-      {emoji: '🔁', title: 'GitHub Actions CI/CD Lab', description: 'GitHub Actions 기반 CI/CD 파이프라인 설계 및 배포 자동화 실습 랩.', href: 'https://jeonck.github.io/github-actions-cicd-lab/'},
     ],
   },
   {
