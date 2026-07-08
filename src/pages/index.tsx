@@ -138,10 +138,30 @@ const hubGroups: HubGroup[] = [
       {emoji: '💻', title: 'Platform Engineering Coding Journal', description: '플랫폼 안정성 및 효율성 증대를 위한 실전 엔지니어링 기록.', href: 'https://jeonck.github.io/coding-journal/'},
     ],
   },
+  {
+    badge: 'Hands-on Labs & Practice',
+    title: '실습 랩',
+    sites: [
+      {emoji: '🧪', title: 'DevOps & SRE Labs', description: '실전 시나리오 기반 데브옵스·SRE 실습 환경 및 트러블슈팅 랩.', href: 'https://jeonck.github.io/devops-sre-labs/'},
+      {emoji: '☁️', title: 'AWS Solutions Lab', description: 'AWS 핵심 서비스 아키텍처를 직접 구축해보는 실습형 솔루션 랩.', href: 'https://jeonck.github.io/aws-sol-lab/'},
+      {emoji: '🔷', title: 'Azure Solutions Lab', description: 'Azure 클라우드 인프라 설계 및 구성 실습 랩.', href: 'https://jeonck.github.io/azure-sol-lab/'},
+      {emoji: '🐘', title: 'Ansible Lab', description: '구성 관리·자동화를 위한 Ansible 실전 플레이북 실습 랩.', href: 'https://jeonck.github.io/ansible-lab/'},
+      {emoji: '🔁', title: 'GitHub Actions CI/CD Lab', description: 'GitHub Actions 기반 CI/CD 파이프라인 설계 및 배포 자동화 실습 랩.', href: 'https://jeonck.github.io/github-actions-cicd-lab/'},
+    ],
+  },
+  {
+    badge: 'Knowledge Wiki & SOP',
+    title: '지식 위키 · SOP',
+    sites: [
+      {emoji: '📘', title: 'IT SOP', description: '반복 업무의 표준화를 위한 IT 운영 표준절차(SOP) 모음.', href: 'https://jeonck.github.io/it-sop/'},
+      {emoji: '📖', title: 'Wiki SOP', description: '위키 형태로 정리한 실무 표준운영절차 지식베이스.', href: 'https://jeonck.github.io/wiki-sop/'},
+      {emoji: '🗂️', title: 'OpenKB Wiki', description: '주제 제한 없이 확장 가능한 오픈 지식베이스 위키.', href: 'https://openkb-wiki.vercel.app/'},
+    ],
+  },
 ];
 
 const stats = [
-  {label: '기술 포트폴리오', value: '18'},
+  {label: '기술 포트폴리오', value: '26'},
   {label: '전문 도메인', value: '4'},
   {label: '미국 정착 가이드', value: '4'},
   {label: '자산 & 라이프', value: '4'},
