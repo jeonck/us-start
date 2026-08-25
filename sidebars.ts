@@ -9,6 +9,7 @@ const sidebars: SidebarsConfig = {
       items: [
         'english/speaking',
         'english/phrasal-verbs',
+        'english/free-classes',
       ],
     },
   ],
