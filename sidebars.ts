@@ -37,7 +37,10 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: '🎓 교육',
       collapsed: false,
-      items: ['education/overview'],
+      items: [
+        'education/overview',
+        'education/grade8-history-media',
+      ],
     },
   ],
 
