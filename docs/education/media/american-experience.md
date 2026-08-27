@@ -66,3 +66,20 @@ PBS 다큐멘터리는 **1차 사료(primary source)** 를 많이 인용합니�
 - **분량이 깁니다.** 집에서 다시 볼 때는 30분씩 나눠 보고, 구간마다 한 문장으로 요약해 두세요.
 - PBS 사이트의 **Transcript(대본)** 기능을 활용하면 놓친 문장을 글로 확인할 수 있습니다.
 - 영상에 나온 사진·편지가 어떤 종류의 사료인지 스스로 물어보는 연습이 시험에 그대로 연결됩니다.
+
+---
+
+## 바로 보기 (Where to Watch)
+
+**PBS는 상당수 작품을 무료로 공개**합니다. 9개 항목 중 가정 학습 접근성이 가장 좋은 자료입니다.
+
+| 방법 | 링크 | 비용 |
+|------|------|------|
+| PBS 전편 보기 | [Watch Full Films](https://www.pbs.org/wgbh/americanexperience/films/) | 무료 (다수) |
+| 현재 스트리밍 중인 작품 | [Streaming Now 모음](https://www.pbs.org/wgbh/americanexperience/collections/streaming-now/) | 무료 |
+| 공식 유튜브 전편 재생목록 | [Full-length Documentaries](https://www.youtube.com/playlist?list=PLmh4YIWteoGjNVK4eU9O7BHnN87vwuxd1) | 무료 |
+| PBS 앱 | iOS / Android 스토어에서 "PBS" 검색 | 무료 |
+
+:::tip 자막과 대본
+PBS 재생 화면의 **CC 버튼으로 영어 자막**을, 작품 페이지의 **Transcript** 탭에서 전체 대본을 볼 수 있습니다. 놓친 문장을 글로 확인할 수 있어 ESL 학습에 특히 유용합니다.
+:::

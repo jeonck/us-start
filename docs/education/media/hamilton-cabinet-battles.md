@@ -75,3 +75,20 @@ Lin-Manuel Miranda의 뮤지컬 *Hamilton* 중 **Cabinet Battle** 장면들입�
 - **뮤지컬 전체는 PG-13 등급**입니다. 일부 욕설과 성인 주제가 포함되어 있어, 수업에서는 보통 **Cabinet Battle 장면만 발췌**해서 봅니다. 동의서 서명 전 어느 범위를 보는지 확인하세요.
 - 랩이라 **속도가 매우 빠릅니다.** 반드시 자막을 켜고, 필요하면 재생 속도를 0.75배로 낮춰 보세요.
 - 뮤지컬은 극적 각색이 있습니다. *"실제 역사에서는 어떻게 결론이 났는가?"* 를 찾아보는 것이 좋은 후속 학습입니다. (→ 수도를 워싱턴 D.C.로 옮기는 대신 부채 인수안이 통과된 **Compromise of 1790**)
+
+---
+
+## 바로 보기 (Where to Watch)
+
+| 방법 | 링크 | 비용 |
+|------|------|------|
+| Disney+ (공연 실황 전편) | [Hamilton](https://www.disneyplus.com/browse/entity-f7f12d79-cfbe-4eb4-b275-091fd34b6dde) | 구독 |
+| 공식 클립 모음 | [Disney Video](https://video.disney.com/watch/now-streaming-hamilton-disney-5a98befc1c873ebd6b4f2a72) | 무료 |
+| 전체 스트리밍처 확인 | [JustWatch](https://www.justwatch.com/us/movie/hamilton-2020) | — |
+| 음원 (가사 확인용) | Spotify / Apple Music에서 `Cabinet Battle #1`, `Cabinet Battle #2` 검색 | 구독 |
+
+:::note Cabinet Battle 장면만 따로 보는 무료 공식 영상은 없습니다
+유튜브에 올라온 "Cabinet Battle" 전체 장면 영상은 무단 업로드입니다. 공식 경로는 **Disney+ 공연 실황**뿐이며, 러닝타임 약 2시간 30분 중 Cabinet Battle #1은 1막 후반, #2는 2막 초반에 나옵니다.
+
+가사만 확인하려면 **음원 스트리밍의 가사 기능**을 쓰는 편이 빠릅니다. 랩 속도가 빨라 글로 먼저 읽어두면 이해가 훨씬 쉽습니다.
+:::

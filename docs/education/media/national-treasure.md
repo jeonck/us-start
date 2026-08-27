@@ -66,3 +66,16 @@ sidebar_label: 5. National Treasure
 - **등급은 PG**입니다. 폭력적 장면은 거의 없고 추격전 중심이지만, 동의서에 서명 전 확인하세요.
 - 시청 후 **"Fact or Fiction?"** 표를 만들어 보세요. 영화 속 요소를 사실/허구로 나누는 활동이 실제 과제로 자주 나옵니다.
 - 주인공 이름(Benjamin Franklin Gates)부터 역사 인물에서 따온 것입니다. 이름의 유래를 찾아보는 것도 좋은 확장 학습입니다.
+
+---
+
+## 바로 보기 (Where to Watch)
+
+| 방법 | 링크 | 비용 |
+|------|------|------|
+| Disney+ | [National Treasure](https://www.disneyplus.com/browse/entity-032c0081-20a9-4b24-a7ad-a3703d8dcef6) | 구독 |
+| 전체 스트리밍처 확인 | [JustWatch](https://www.justwatch.com/us/movie/national-treasure) | — |
+
+:::note 무료 공개본은 없습니다
+저작권이 있는 극장 개봉작이라 **합법적인 무료 시청처는 없습니다.** 유튜브에 올라온 전편은 무단 업로드입니다. Disney+ 구독이 없다면 Amazon·Apple TV 등에서 개별 대여가 가능하며, 위 JustWatch 링크에서 현재 가격을 비교할 수 있습니다.
+:::

@@ -70,3 +70,18 @@ sidebar_label: 6. Remember the Titans
 - **등급은 PG**입니다. 인종차별적 언어와 갈등 장면이 나오지만, 교육적 맥락에서 다루어집니다. 동의서 서명 전 확인하세요.
 - 자녀가 **미국 인종 문제의 역사적 배경을 처음 접하는 계기**가 될 수 있습니다. 시청 후 가정에서 함께 이야기 나누기를 권합니다.
 - 대화 질문 예시: *"팀이 하나가 되게 만든 결정적 계기는 무엇이었나?"*, *"한국에도 비슷한 형태의 차별이 있을까?"*
+
+---
+
+## 바로 보기 (Where to Watch)
+
+| 방법 | 링크 | 비용 |
+|------|------|------|
+| Disney+ | [Remember the Titans](https://www.disneyplus.com/browse/entity-3edbc4c1-03ea-47c0-8cb2-1cb73774c796) | 구독 |
+| Hulu | Hulu 앱에서 "Remember the Titans" 검색 | 구독 |
+| 예고편 (무료) | [Disney Video 예고편](https://video.disney.com/watch/remember-the-titans-trailer-4beb46cbf80a9207ce46f149) | 무료 |
+| 전체 스트리밍처 확인 | [JustWatch](https://www.justwatch.com/us/movie/remember-the-titans) | — |
+
+:::tip 미리 보기
+동의서 서명 전에 내용을 확인하고 싶다면 위의 **예고편을 무료로** 볼 수 있습니다. 영화의 분위기와 다루는 주제를 파악하기에 충분합니다.
+:::

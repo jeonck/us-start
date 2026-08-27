@@ -78,6 +78,32 @@ title: Grade 8 역사 수업 미디어 자료
 
 ---
 
+## 바로 보기 링크 (Where to Watch)
+
+각 자료를 지금 바로 볼 수 있는 경로입니다. **무료 여부를 함께 표시**했습니다.
+
+| # | 자료 | 바로 보기 | 비용 |
+|---|------|-----------|------|
+| 1 | The Presidents | [HISTORY 대통령 영상 모음](https://www.history.com/playlists/the-ultimate-guide-to-the-presidents-season-1-curated-list) | 일부 무료 |
+| 2 | History Channel Shorts | [history.com/videos](https://www.history.com/videos) · [공식 유튜브](https://www.youtube.com/c/HISTORY/videos) | **무료** |
+| 3 | American Experience | [PBS 전편 보기](https://www.pbs.org/wgbh/americanexperience/films/) · [공식 유튜브 재생목록](https://www.youtube.com/playlist?list=PLmh4YIWteoGjNVK4eU9O7BHnN87vwuxd1) | **무료** |
+| 4 | America: The Story of US | [공식 유튜브 재생목록](https://www.youtube.com/playlist?list=PLC71961E4D8527D39) · [Roku 무료](https://therokuchannel.roku.com/details/6d320de3228354c79ceff3802a90aaf9/america-the-story-of-us) | **무료**(광고) |
+| 5 | National Treasure | [Disney+](https://www.disneyplus.com/browse/entity-032c0081-20a9-4b24-a7ad-a3703d8dcef6) · [JustWatch](https://www.justwatch.com/us/movie/national-treasure) | 구독/대여 |
+| 6 | Remember the Titans | [Disney+](https://www.disneyplus.com/browse/entity-3edbc4c1-03ea-47c0-8cb2-1cb73774c796) · [예고편](https://video.disney.com/watch/remember-the-titans-trailer-4beb46cbf80a9207ce46f149) | 구독 |
+| 7 | Too Late To Apologize | [YouTube 원본](https://www.youtube.com/watch?v=uZfRaWAtBVg) | **무료** |
+| 8 | Hamilton: Cabinet Battles | [Disney+](https://www.disneyplus.com/browse/entity-f7f12d79-cfbe-4eb4-b275-091fd34b6dde) · [JustWatch](https://www.justwatch.com/us/movie/hamilton-2020) | 구독 |
+| 9 | Future Fright | 담당 교사에게 링크 문의 | — |
+
+:::tip 무료로 지금 볼 수 있는 것부터
+**2·3·4·7번**은 구독 없이 바로 볼 수 있습니다. 특히 **7번(3분)** 과 **2번(3~5분)** 은 짧아서 부담이 없고, **3번 PBS**는 영어 자막과 전체 대본까지 제공해 ESL 학습에 가장 좋습니다.
+:::
+
+:::caution 무단 업로드에 주의하세요
+*National Treasure*, *Remember the Titans*, *Hamilton*, *The Presidents* 전편을 올려둔 유튜브 영상이 검색되지만 대부분 **무단 업로드**입니다. 예고 없이 삭제되고 화질도 낮으니, 위 표의 공식 경로를 이용하시길 권합니다.
+:::
+
+---
+
 ## 학부모 참고 사항
 
 - **동의서 제출**: 학기 초 배포되는 Visual Media Consent 문서에 서명해 제출합니다. 온라인(Google Docs/Forms) 제출인 경우가 많습니다.

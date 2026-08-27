@@ -71,3 +71,19 @@ sidebar_label: 7. Too Late To Apologize
 - 영상이 짧고 중독성이 강해 **가사를 따라 부르며 문장을 통째로 익히기** 좋습니다.
 - 시청 후 실제 독립선언문 원문 첫 문단과 비교해 보세요. 노래가 어떤 부분을 각색했는지 알면 이해가 깊어집니다.
 - 같은 제작사가 만든 헌법·권리장전 관련 패러디 영상도 있어 확장 학습이 가능합니다.
+
+---
+
+## 바로 보기 (Where to Watch)
+
+**9개 항목 중 가장 접근하기 쉬운 자료입니다. 완전 무료이고 3분이면 끝납니다.**
+
+| 방법 | 링크 | 비용 |
+|------|------|------|
+| 유튜브 원본 (제작사 공식 업로드) | [Too Late to Apologize: A Declaration](https://www.youtube.com/watch?v=uZfRaWAtBVg) | 무료 |
+| 제작사 공식 페이지 | [Soomo Learning](https://www.soomolearning.com/declaration) | 무료 |
+| 플루트 버전 | [YouTube](https://www.youtube.com/watch?v=16x8NyFbSjg) | 무료 |
+
+:::tip 자막 켜는 법
+유튜브 재생 화면 하단의 **CC 버튼**을 누르면 영어 자막이 나옵니다. 랩·노래는 받아쓰기가 어려우니 자막을 켜고 가사를 눈으로 따라가며 들으세요.
+:::

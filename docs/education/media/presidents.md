@@ -71,3 +71,17 @@ sidebar_label: 1. The Presidents
 - **인물 정리표를 만드세요.** 이름 / 재임 기간 / 대표 업적(1줄) / 관련 사건 4칸이면 충분합니다. 시험에 그대로 나옵니다.
 - **연도보다 순서가 먼저입니다.** 정확한 연도를 외우기 전에 "누가 누구 다음인가"를 익히면 이해가 빠릅니다.
 - 자막(English subtitle)을 켜고 보면 내레이션 속도가 빨라도 어휘를 놓치지 않습니다.
+
+---
+
+## 바로 보기 (Where to Watch)
+
+| 방법 | 링크 | 비용 |
+|------|------|------|
+| HISTORY 공식 대통령 영상 모음 | [The Ultimate Guide to the Presidents](https://www.history.com/playlists/the-ultimate-guide-to-the-presidents-season-1-curated-list) | 무료 (일부) |
+| HISTORY 공식 유튜브 채널 | [youtube.com/c/HISTORY](https://www.youtube.com/c/HISTORY/videos) | 무료 |
+| DVD / 구매·대여 | [Amazon](https://www.amazon.com/History-Channel-Presents-Presidents/dp/B0007VY3ZK) | 유료 |
+
+:::caution 무단 업로드 주의
+유튜브에서 *The Presidents* 전편을 올려둔 개인 재생목록이 여럿 검색되지만, 대부분 **공식 채널이 아닌 무단 업로드**입니다. 예고 없이 삭제되며 화질도 낮습니다. 위의 공식 경로를 이용하세요.
+:::

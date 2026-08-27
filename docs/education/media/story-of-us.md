@@ -67,3 +67,19 @@ sidebar_label: 4. America - The Story of US
 - 각 화의 제목이 곧 단원 주제입니다. **제목을 먼저 확인**하고 "이 편은 어떤 기술 이야기인가"를 예상해 보세요.
 - 재연 장면과 실제 기록 영상이 섞여 있습니다. 어느 쪽인지 구분하며 보면 사료 분석 연습이 됩니다.
 - 내레이션 속도가 빠른 편이라 **영어 자막을 켜는 것을 권장**합니다.
+
+---
+
+## 바로 보기 (Where to Watch)
+
+| 방법 | 링크 | 비용 |
+|------|------|------|
+| HISTORY 공식 유튜브 재생목록 | [America: The Story of Us — Official Series Playlist](https://www.youtube.com/playlist?list=PLC71961E4D8527D39) | 무료 (일부) |
+| 전편 예시 (8화: From Oil to Organized Crime) | [YouTube](https://www.youtube.com/watch?v=ZIzgUNb5xXQ) | 무료 |
+| HISTORY.com 시리즈 페이지 | [history.com/shows/america-the-story-of-us](https://www.history.com/shows/america-the-story-of-us) | 일부 무료 |
+| Prime Video | [시즌 1](https://www.primevideo.com/detail/America-The-Story-Of-Us/0TVGX5F6RYWNXQZTTA8WJP9EZ0) | 유료/구독 |
+| The Roku Channel | [무료 시청](https://therokuchannel.roku.com/details/6d320de3228354c79ceff3802a90aaf9/america-the-story-of-us) | 무료 (광고) |
+
+:::tip 무료로 전편을 보려면
+**The Roku Channel**이 광고 포함 무료입니다. Roku 기기가 없어도 웹브라우저에서 볼 수 있습니다.
+:::

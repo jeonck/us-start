@@ -67,3 +67,18 @@ sidebar_label: 2. History Channel Shorts
 - 영상이 짧은 만큼 **한 번 더 돌려보기**가 쉽습니다. 첫 시청은 자막 없이, 두 번째는 자막을 켜고 보세요.
 - 영상 하나당 **핵심 문장 1개만** 노트에 적는 습관을 들이면 부담 없이 축적됩니다.
 - History.com 영상은 가정에서도 무료로 볼 수 있는 클립이 많아 복습용으로 좋습니다.
+
+---
+
+## 바로 보기 (Where to Watch)
+
+이 항목은 **전부 무료로 공개**되어 있어 가정에서 바로 활용할 수 있습니다.
+
+| 방법 | 링크 | 비용 |
+|------|------|------|
+| HISTORY.com 영상 모음 | [history.com/videos](https://www.history.com/videos) | 무료 |
+| HISTORY 공식 유튜브 채널 | [youtube.com/c/HISTORY](https://www.youtube.com/c/HISTORY/videos) | 무료 |
+
+:::tip 검색 요령
+수업 주제를 영어로 입력해 채널 안에서 검색하세요. 예: `Boston Tea Party`, `Underground Railroad`, `Erie Canal`. 3~5분짜리 클립이 바로 나옵니다.
+:::
