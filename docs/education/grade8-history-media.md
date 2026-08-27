@@ -16,19 +16,19 @@ title: Grade 8 역사 수업 미디어 자료
 
 ### 1. History Channel Presents: The Presidents
 미국 역대 대통령들의 생애와 업적을 다룬 히스토리 채널의 다큐멘터리 프로그램입니다.
-→ [시리즈 정보](https://en.wikipedia.org/wiki/The_Presidents_(TV_series))
+→ **[상세 설명 · 어휘/문장 정리](./media/presidents.md)** · [시리즈 정보](https://en.wikipedia.org/wiki/The_Presidents_(TV_series))
 
 ### 2. Various History Channel Shorts (약 3~5분)
 역사적 사건이나 인물을 짧고 간결하게 다룬 3~5분 분량의 히스토리 채널 교육용 영상입니다.
-→ [History.com 영상](https://www.history.com/videos)
+→ **[상세 설명 · 어휘/문장 정리](./media/history-shorts.md)** · [History.com 영상](https://www.history.com/videos)
 
 ### 3. American Experience by PBS
 미국의 역사적 주요 사건과 인물들을 깊이 있게 조명하는 PBS의 대표적인 역사 다큐멘터리 시리즈입니다.
-→ [PBS 공식 사이트](https://www.pbs.org/wgbh/americanexperience/)
+→ **[상세 설명 · 어휘/문장 정리](./media/american-experience.md)** · [PBS 공식 사이트](https://www.pbs.org/wgbh/americanexperience/)
 
 ### 4. America: The Story of US (History Channel)
 식민지 시대부터 현대까지 미국 역사의 발전 과정을 역동적으로 다룬 히스토리 채널의 대서사 다큐멘터리입니다.
-→ [History.com 시리즈 페이지](https://www.history.com/shows/america-the-story-of-us)
+→ **[상세 설명 · 어휘/문장 정리](./media/story-of-us.md)** · [History.com 시리즈 페이지](https://www.history.com/shows/america-the-story-of-us)
 
 ---
 
@@ -36,11 +36,11 @@ title: Grade 8 역사 수업 미디어 자료
 
 ### 5. Disney's National Treasure
 미국 건국과 관련된 숨겨진 보물과 역사적 단서들을 추적하는 디즈니의 모험 영화입니다.
-→ [작품 정보](https://en.wikipedia.org/wiki/National_Treasure_(film))
+→ **[상세 설명 · 어휘/문장 정리](./media/national-treasure.md)** · [작품 정보](https://en.wikipedia.org/wiki/National_Treasure_(film))
 
 ### 6. Disney's Remember the Titans
 실화를 바탕으로 인종 갈등을 극복하고 팀워크를 다지는 고등학교 미식축구팀의 이야기를 다룬 디즈니 영화입니다.
-→ [작품 정보](https://en.wikipedia.org/wiki/Remember_the_Titans)
+→ **[상세 설명 · 어휘/문장 정리](./media/remember-the-titans.md)** · [작품 정보](https://en.wikipedia.org/wiki/Remember_the_Titans)
 
 ---
 
@@ -48,14 +48,33 @@ title: Grade 8 역사 수업 미디어 자료
 
 ### 7. It's Too Late To Apologize: A Declaration
 독립선언문과 미국 독립 전쟁의 배경을 대중가요 패러디로 쉽게 풀어낸 교육용 영상입니다. OneRepublic/Timbaland의 "Apologize"를 패러디해 토머스 제퍼슨과 건국의 아버지들이 노래하는 형식입니다.
-→ [YouTube 영상](https://www.youtube.com/watch?v=uZfRaWAtBVg) · [Soomo Learning](https://www.soomolearning.com/declaration)
+→ **[상세 설명 · 어휘/문장 정리](./media/too-late-to-apologize.md)** · [YouTube 영상](https://www.youtube.com/watch?v=uZfRaWAtBVg) · [Soomo Learning](https://www.soomolearning.com/declaration)
 
 ### 8. Disney's Hamilton Musical: Cabinet Rap Battles
 건국 아버지들의 정치적 대립을 힙합 배틀 형식으로 흥미롭게 풀어낸 뮤지컬 해밀턴의 주요 장면입니다.
-→ [작품 정보](https://en.wikipedia.org/wiki/Hamilton_(musical))
+→ **[상세 설명 · 어휘/문장 정리](./media/hamilton-cabinet-battles.md)** · [작품 정보](https://en.wikipedia.org/wiki/Hamilton_(musical))
 
 ### 9. Youtube: Future Fright
 역사적 맥락이나 교훈을 담아 유튜브를 통해 시청하는 교육용 영상 콘텐츠입니다. 담당 교사가 수업 중 개별 링크를 안내합니다.
+→ **[상세 설명 · 어휘/문장 정리](./media/future-fright.md)**
+
+---
+
+## 항목별 상세 페이지
+
+각 자료의 **배경 설명, 핵심 어휘, 핵심 문장 해설**을 별도 페이지로 정리했습니다. 좌측 메뉴에서도 바로 접근할 수 있습니다.
+
+| # | 자료 | 상세 페이지 |
+|---|------|------------|
+| 1 | History Channel Presents: The Presidents | [바로가기](./media/presidents.md) |
+| 2 | Various History Channel Shorts | [바로가기](./media/history-shorts.md) |
+| 3 | American Experience by PBS | [바로가기](./media/american-experience.md) |
+| 4 | America: The Story of US | [바로가기](./media/story-of-us.md) |
+| 5 | Disney's National Treasure | [바로가기](./media/national-treasure.md) |
+| 6 | Disney's Remember the Titans | [바로가기](./media/remember-the-titans.md) |
+| 7 | It's Too Late To Apologize | [바로가기](./media/too-late-to-apologize.md) |
+| 8 | Hamilton: Cabinet Rap Battles | [바로가기](./media/hamilton-cabinet-battles.md) |
+| 9 | Youtube: Future Fright | [바로가기](./media/future-fright.md) |
 
 ---
 
